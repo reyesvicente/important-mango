@@ -69,13 +69,6 @@ sections:
     subtitle: ''
     title: Services
     type: section_features
-  - actions:
-      - label: Book a meeting
-        url: 'https://drift.me/highcenburg/meeting'
-    section_id: call-to-action
-    subtitle: We usually work in +8 GMT but we can take meetings in Eastern Time
-    title: Need more information?
-    type: section_cta
   - bg: null
     reviews:
       - author: 'Ben, Flower Head Events '
@@ -91,6 +84,13 @@ sections:
     subtitle: These are what our clients have to say
     title: Testimonials
     type: section_reviews
+  - actions:
+      - label: Book a meeting
+        url: 'https://drift.me/highcenburg/meeting'
+    section_id: call-to-action
+    subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
+    title: Need a website made?
+    type: section_cta
 menus:
   main:
     title: Home

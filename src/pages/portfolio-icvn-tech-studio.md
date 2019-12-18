@@ -7,15 +7,17 @@ sections:
       websites
     featureslist:
       - actions:
+          - label: View Site
+            url: 'https://enzobbs420.netlify.com'
           - label: Book a meeting
             url: 'https://drift.me/highcenburg/meeting'
-          - label: 'https://enzobbs420.netlify.com'
         content: >-
           A Brochure-Type Web Application that shows the Menu of the business
           and the location of operation.
 
 
           Service offered: Landing Page
+        image: /images/bbss.png
         title: Bigboys Shawarma
       - actions:
           - label: View Site

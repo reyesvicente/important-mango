@@ -34,6 +34,12 @@ sections:
     section_id: portfolio
     title: Check out our recent works
     type: section_features
+  - actions:
+      - label: Recent Works
+        url: /portfolio
+    section_id: more
+    title: Want to see more recent works?
+    type: section_cta
   - bg: gray
     featureslist:
       - actions:

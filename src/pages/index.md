@@ -6,7 +6,7 @@ sections:
         url: /case-studies
     content: >-
       We're a small tech studio who helps small & medium business' with website
-      development specifically Shopify.
+      development using Shopify & the Django Web Framework.
     image: /images/icvn-tech-shopify.png
     section_id: hero
     title: We are ICVN Tech Studio

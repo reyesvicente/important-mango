@@ -1,74 +1,97 @@
 ---
-title: Pricing
+title: Web Pricing
 sections:
-  - type: section_pricing
-    section_id: pricing
-    title: Pricing Plans
-    subtitle: You can have a separate pricing page or list everything on the home page.
-    bg: gray
+  - bg: gray
     pricingplans:
-      - title: Basic
-        price: $5/m
+      - actions:
+          - label: Inquire
+            url: /contact
         details: |-
-          * Lorem ipsum dolor sit amet
-          * Mauris a mi tincidunt
-          * Suspendisse ut lacus
-          * Etiam eget dui a augue
-        actions:
-          - label: Order Now
-            url: /signup
-      - title: Professional
-        price: $49/m
-        details: |-
-          * Curabitur non nunc mollis
-          * Duis a purus nec ligula
-          * Pellentesque sit amet
-          * Fusce tempus mi vitae
-          * Nullam sollicitudin ante
+          * Setting up and configuring Shopify stores (digital or physical)
+          * Developing apps and/or custom functionality for stores
+          * Providing marketing and/or business expertise
+
+
+
+          _\*Shopify Plan & Monthly Maintenance not included_
         highlight: true
-        actions:
-          - label: Order Now
-            url: /signup
-      - title: Enterprise
-        price: $149/m
+        price: Development Starts at $1500
+        title: Shopify Store Development
+      - actions:
+          - label: Inquire
+            url: /contact
         details: |-
-          * Vestibulum non eros quis
-          * Aenean iaculis lorem
-          * Mauris eleifend sapien
-          * Phasellus lobortis risus
-        actions:
-          - label: Order Now
-            url: /signup
-  - type: section_faq
-    section_id: faq
-    title: Frequently Asked Questions
-    subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
-    bg: gray
+          * Ridiculously fast
+          * Fully loaded
+          * Reassuringly secure
+          * Exceedingly scalable
+          * Incredibly versatile
+
+
+
+          _\*Hosting & Monthly Maintenance not included_
+        highlight: true
+        price: Development Starts at $750
+        title: Django Web Development
+      - actions:
+          - label: Inquire
+            url: /contact
+        details: |-
+          * Improved Security
+          * Blazing Fast
+          * Little to no dependency
+          * Free Hosting!
+
+
+
+          _\*T&C Applies_\
+          _\*Monthly Maintenance not included_
+        price: Development Starts at $350
+        title: Static Web Development
+    section_id: pricing
+    subtitle: These are our Web Development Prices
+    title: Web Development Pricing
+    type: section_pricing
+  - bg: gray
     faqitems:
-      - question: Mauris ut tellus id arcu sagittis lacinia quis vel justo?
-        answer: >-
-          Ut cursus, nunc vitae hendrerit viverra, massa ipsum congue quam, sed
-          tempus mauris lacus sit amet nibh. Curabitur laoreet est maximus
-          mollis feugiat. Praesent nibh libero, placerat et justo at, luctus
-          tristique enim. Pellentesque habitant morbi tristique senectus et
-          netus et malesuada fames ac turpis egestas.
-      - question: Aliquam eget purus ante?
-        answer: >-
-          Nunc sollicitudin libero tincidunt felis pretium, consectetur aliquam
-          eros placerat. Sed neque neque, bibendum a pulvinar id, pellentesque
-          eget velit. 
-      - question: Sed scelerisque in ipsum eu sollicitudin?
-        answer: >-
-          Nullam quis ultrices ipsum. Integer eleifend laoreet quam, ac
-          dignissim nisi mollis eget. Ut vitae nisi sit amet nisi suscipit
-          dictum faucibus eget magna. Vivamus in hendrerit magna, non
-          pellentesque metus. Morbi orci odio, dictum at efficitur sit amet,
-          luctus in ipsum. Nunc pellentesque mi vel dui vulputate, a lobortis
-          lacus venenatis. Phasellus pellentesque dolor id feugiat faucibus.
-          Etiam vehicula nunc velit, in consequat nisl feugiat nec.
+      - answer: >-
+          Website Development prices depend on a lot of factors. We'd love to
+          talk to you about the process in developing websites. Contact us at
+          our [contact page](/contact)!
+        question: How much does a website cost?
+      - answer: >-
+          Depending on the complexity of the web application, we can develop one
+          from 4 days up to 6 months.
+        question: How long does it take to develop a Website?
+      - answer: >-
+          We're a very friendly Technology Studio and all we want is to help you
+          get your business online. We only charge what we work on, we do not
+          charge on work that we do not do. Finally, we build powerful and
+          blazing fast websites that scale.
+        question: Why should we hire you?
+      - answer: >-
+          No, we don't! However, we've partnered with
+          [Bluehost](https://bit.ly/34Cvn94) &
+          [Hostinger](https://www.hostg.xyz/SH2IO) that give amazing deals on
+          web hosting which has a very responsive customer service. You won't
+          regret it if you subscribe to their hosting plans!
+        question: Do you provide web hosting?
+      - answer: >-
+          Yes, we hire freelance content writers to create content for each
+          website we develop!
+        question: Do you provide content for a website?
+      - answer: >-
+          We have a tenured artist who creates articulate graphics for our
+          clients.
+        question: Who makes the illustrations/logos?
+    section_id: faq
+    subtitle: These are the most Frequently Asked Questions
+    title: Frequently Asked Questions
+    type: section_faq
 menus:
   main:
     title: Pricing
     weight: 3
 template: landing
 ---
+

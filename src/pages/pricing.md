@@ -71,11 +71,9 @@ sections:
           * 1X Processing Power & Memory
           * 1 MySQL Database
           * 24/7/365 Support
-          * 99.9% Uptime Guarantee
-
-          \
-            \
-            **T&C Apply*
+          * 99.9% Uptime Guarantee\
+              \
+              **T&C Apply*
         highlight: false
         price: $0.80/mo
         title: Hostinger Shared Hosting

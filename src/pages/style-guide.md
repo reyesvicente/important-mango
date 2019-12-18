@@ -6,11 +6,10 @@ subtitle: >-
   and styles for your content.
 menus:
   main:
-    title: Style Guide
-    weight: 3
+    title: ''
+    weight: ''
 template: page
 ---
-
 **This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit <mark>amet est et sapien ullamcorper</mark> pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.
 
 # This is an H1
@@ -33,7 +32,7 @@ Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
 
->&ldquo;Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.&rdquo;
+> &ldquo;Creativity is allowing yourself to make mistakes. Design is knowing which ones to keep.&rdquo;
 
 Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu.
 
@@ -41,11 +40,11 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 
 ## Unordered Lists
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+* Donec non tortor in arcu mollis feugiat
+* Lorem ipsum dolor sit amet, consectetuer adipiscing elit
+* Donec id eros eget quam aliquam gravida
+* Vivamus convallis urna id felis
+* Nulla porta tempus sapien
 
 ## Ordered Lists
 

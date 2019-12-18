@@ -1,5 +1,5 @@
 ---
-title: Contact - ICVN Tech Studio
+title: Contact Us
 sections:
   - bg: gray
     content: >-

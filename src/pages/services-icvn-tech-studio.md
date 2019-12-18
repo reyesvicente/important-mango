@@ -71,7 +71,7 @@ sections:
     section_id: contact
     subtitle: >-
       Have you decided yet what you need? Contact us so we can talk about your
-      need!
+      needs are!
     title: Contact Us!
     type: section_contact
 menus:

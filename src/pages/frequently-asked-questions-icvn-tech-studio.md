@@ -39,7 +39,7 @@ menus:
     weight: 5
   secondary:
     title: FAQ
-    weight: 5
+    weight: 4
 template: landing
 ---
 

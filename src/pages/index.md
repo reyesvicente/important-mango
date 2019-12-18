@@ -19,23 +19,42 @@ sections:
           - label: Get a quote
             url: /contact
         content: >-
-          The client specifically requested for a drop shipping website in
-          Shopify wherein he would ship products from Oberlo.
-        image: /images/nvm.png
-        title: NVRMND CLOTHING CO
+          The client came to me to say that she wanted our local payment methods
+          integrated on to her store in Shopify.
+
+
+
+
+          Service Offered: Shopify Development
+        image: /images/bad.png
+        title: Bad Guyz R Us
       - actions:
           - label: Get a quote
             url: /contact
         content: >-
-          The client came to me to say that she wanted our local payment methods
-          integrated on to her store in Shopify.
-        image: /images/bad.png
-        title: Bad Guyz R Us
+          The client specifically requested for a drop shipping website in
+          Shopify wherein he would ship products from Oberlo.
+
+
+
+
+          Service Offered: Shopify Development
+        image: /images/nvm.png
+        title: NVRMND CLOTHING CO
+      - actions:
+          - label: Get Quote
+            url: /contact
+        content: |-
+          Client needed a website to handle their product sales online.
+
+          Service Offered: Shopify Development
+        image: /images/bev.png
+        title: Beverly Pups
     section_id: portfolio
-    title: Check out our recent works
+    title: Check Out Our Recent Works
     type: section_features
   - actions:
-      - label: Recent Works
+      - label: View Recent Works
         url: /portfolio
     section_id: more
     title: Want to see more recent works?

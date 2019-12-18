@@ -1,5 +1,5 @@
 ---
-title: Home - ICVN Tech Studio
+title: Home
 sections:
   - actions:
       - label: Learn More

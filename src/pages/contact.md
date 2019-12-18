@@ -10,8 +10,8 @@ sections:
     type: section_contact
 menus:
   main:
-    title: Contact
-    weight: 6
+    title: ''
+    weight: ''
   secondary:
     title: Contact
     weight: 6

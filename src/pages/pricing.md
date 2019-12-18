@@ -1,5 +1,5 @@
 ---
-title: Web Development Pricing - ICVN Tech Studio
+title: Web Development & Hosting Pricing - ICVN Tech Studio
 sections:
   - bg: gray
     pricingplans:

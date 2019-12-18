@@ -9,7 +9,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://enzobbs420.netlify.com'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           A Brochure-Type Web Application that shows the Menu of the business
@@ -22,7 +22,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://herbguard.com'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The work we did here was to add the newsletter form using Klaviyo and
@@ -38,7 +38,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://nvrmnd-clothing-co.myshopify.com/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The client specifically requested for a drop shipping website in
@@ -53,7 +53,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://icvn-hotel.herokuapp.com/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           A Fictitious Real Estate/Hotel Website developed with
@@ -69,7 +69,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://bad-guyz-r-us.com/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The client came to me to say that she wanted our local payment methods
@@ -84,7 +84,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://flowerheadevents.com.au/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The client needed a small fix on his website. He needed the "shop now"
@@ -100,7 +100,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://raveforgood.co/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The client needed a landing page for his affiliates which was done
@@ -115,7 +115,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://soulheistmusic.icu'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The artist just released new music and he needed a landing page to use
@@ -128,7 +128,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://beverlypups.com/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: |-
           Client needed a website to handle their product sales online.
@@ -141,7 +141,7 @@ sections:
       - actions:
           - label: View Site
             url: 'https://ideamaker.agency/'
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
           The client needed his scaffold made for his web development agency.
@@ -163,7 +163,7 @@ sections:
     subtitle: >-
       We can not wait to work with you in creating your online store. Message us
       now to get a quote. We're friendly too (:
-    title: Get a quote
+    title: Get a Quote
     type: section_contact
 menus:
   main:

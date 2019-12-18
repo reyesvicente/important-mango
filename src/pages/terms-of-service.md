@@ -434,8 +434,8 @@ sections:
     type: section_content
 menus:
   secondary:
-    title: Terms of Service
-    weight: 7
+    title: ''
+    weight: ''
 template: landing
 ---
 

@@ -1,8 +1,6 @@
 ---
 title: About Us
-subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+subtitle: Learn about the history of the company
 img_path: /images/black-flat-screen-computer-monitor-1714208.jpg
 menus:
   main:

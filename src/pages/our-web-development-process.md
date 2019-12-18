@@ -55,6 +55,13 @@ sections:
     section_id: cta
     title: Are you ready to develop your web application with us?
     type: section_cta
+menus:
+  main:
+    title: Our Process
+    weight: 5
+  secondary:
+    title: Our Process
+    weight: 5
 template: landing
 ---
 

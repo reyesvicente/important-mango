@@ -1,5 +1,5 @@
 ---
-title: Portfolio - ICVN Tech Studio
+title: Portfolio
 sections:
   - bg: gray
     content: >-

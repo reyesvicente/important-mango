@@ -2,8 +2,10 @@
 title: Home - ICVN Tech Studio
 sections:
   - actions:
-      - label: Services
+      - label: Learn More
         url: /services
+      - label: Get a Quote
+        url: /contact
     content: >-
       We're a small tech studio who helps small & medium business' with website
       development using Shopify & the Django Web Framework.

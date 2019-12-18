@@ -23,7 +23,13 @@
     "logo_img": "/images/logo.png",
     "has_social": true,
     "content": "&copy; ICVN Tech Studio. All rights reserved.",
-    "links": [],
+    "links": [
+      {
+        "text": "Illustration by Ouch.pics",
+        "url": "https://icons8.com",
+        "new_window": true
+      }
+    ],
     "nav_title": "Company",
     "has_nav": true
   }

@@ -1,5 +1,5 @@
 ---
-title: Features
+title: Services
 sections:
   - actions:
       - label: Case Study
@@ -37,6 +37,9 @@ sections:
     type: section_cta
 menus:
   main:
+    title: Shopify
+    weight: 2
+  secondary:
     title: Shopify
     weight: 2
 template: landing

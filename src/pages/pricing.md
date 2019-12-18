@@ -7,6 +7,20 @@ sections:
           - label: Inquire
             url: /contact
         details: |-
+          * Improved Security
+          * Blazing Fast
+          * Little to no dependency
+          * Free Hosting!
+
+          *\*T&C Applies*\
+          *\*Monthly Maintenance not included*
+        highlight: false
+        price: ''
+        title: Static Web Development
+      - actions:
+          - label: Inquire
+            url: /contact
+        details: |-
           * Ridiculously fast
           * Fully loaded
           * Reassuringly secure
@@ -14,8 +28,8 @@ sections:
           * Incredibly versatile
 
           *\*Hosting & Monthly Maintenance not included*
-        highlight: false
-        price: $1000
+        highlight: true
+        price: ''
         title: Django Web Development
       - actions:
           - label: Inquire
@@ -25,24 +39,10 @@ sections:
           * Developing apps and/or custom functionality for stores
           * Providing marketing and/or business expertise
 
-          *\*Shopify Plan & Monthly Maintenance not included*
+          *Shopify Plan & Monthly Maintenance not included*
         highlight: true
-        price: $1500
+        price: ''
         title: Shopify Store Development
-      - actions:
-          - label: Inquire
-            url: /contact
-        details: |-
-          * Improved Security
-          * Blazing Fast
-          * Little to no dependency
-          * Free Hosting!
-
-          *\*T&C Applies*\
-          *\*Monthly Maintenance not included*
-        highlight: false
-        price: $500
-        title: Static Web Development
     section_id: pricing
     subtitle: These are our Web Development Prices
     title: Web Development Pricing

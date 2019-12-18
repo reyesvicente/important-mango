@@ -10,10 +10,10 @@ sections:
     type: section_contact
 menus:
   main:
-    title: Contact
+    title: Contact Us
     weight: 6
   secondary:
-    title: Contact
+    title: Contact Us
     weight: 9
 template: landing
 ---

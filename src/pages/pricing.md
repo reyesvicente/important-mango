@@ -1,5 +1,5 @@
 ---
-title: Web Pricing
+title: Web Development Pricing - ICVN Tech Studio
 sections:
   - bg: gray
     pricingplans:
@@ -13,9 +13,7 @@ sections:
           * Exceedingly scalable
           * Incredibly versatile
 
-
-
-          _\*Hosting & Monthly Maintenance not included_
+          *\*Hosting & Monthly Maintenance not included*
         highlight: false
         price: $1000
         title: Django Web Development
@@ -27,9 +25,7 @@ sections:
           * Developing apps and/or custom functionality for stores
           * Providing marketing and/or business expertise
 
-
-
-          _\*Shopify Plan & Monthly Maintenance not included_
+          *\*Shopify Plan & Monthly Maintenance not included*
         highlight: true
         price: $1500
         title: Shopify Store Development
@@ -42,10 +38,8 @@ sections:
           * Little to no dependency
           * Free Hosting!
 
-
-
-          _\*T&C Applies_\
-          _\*Monthly Maintenance not included_
+          *\*T&C Applies*\
+          *\*Monthly Maintenance not included*
         highlight: false
         price: $500
         title: Static Web Development
@@ -91,8 +85,11 @@ sections:
     type: section_faq
 menus:
   main:
-    title: Pricing
-    weight: 3
+    title: Development Pricing
+    weight: 4
+  secondary:
+    title: Development Pricing
+    weight: 4
 template: landing
 ---
 

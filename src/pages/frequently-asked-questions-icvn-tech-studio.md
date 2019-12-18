@@ -35,10 +35,10 @@ sections:
     type: section_faq
 menus:
   main:
-    title: faq
+    title: FAQ
     weight: 5
   secondary:
-    title: faq
+    title: FAQ
     weight: 5
 template: landing
 ---

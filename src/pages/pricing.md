@@ -11,7 +11,9 @@ sections:
           * Blazing Fast
           * Little to no dependency
           * Free Hosting!
-          * 50 Contact Form Submissions per month\
+          * 50 Contact Form Submissions per month
+
+            \
             * *T&C Applies* \
             * *Monthly Maintenance not included*
         highlight: false
@@ -39,6 +41,7 @@ sections:
           * Developing apps and/or custom functionality for stores
           * Providing marketing and/or business expertise
           * Application Integration\
+            \
             **Shopify Plan & Monthly Maintenance not included*
         highlight: false
         price: '*$1500'

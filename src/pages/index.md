@@ -48,7 +48,7 @@ sections:
           [Wikipedia](https://en.wikipedia.org/wiki/Static_web_page)
         image: /images/abstract-page-is-under-construction.png
         title: Static Website Development
-    section_id: features
+    section_id: services
     subtitle: ''
     title: Services
     type: section_features
@@ -61,8 +61,11 @@ sections:
     type: section_cta
 menus:
   main:
-    title: ''
-    weight: ''
+    title: Home
+    weight: 1
+  secondary:
+    title: Home
+    weight: 4
 template: landing
 ---
 

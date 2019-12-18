@@ -16,7 +16,7 @@ sections:
           and the location of operation.
 
 
-          Service offered: Landing Page
+          Service offered: Static Website Development
         image: /images/bbss.png
         title: Bigboys Shawarma
       - actions:
@@ -121,9 +121,7 @@ sections:
           for his promotion. 
 
 
-
-
-          Service Offered: Static Site Development
+          Service Offered: Static Website Development
         image: /images/sh.png
         title: Soul Heist
       - actions:

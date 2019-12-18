@@ -93,8 +93,8 @@ sections:
         image: /images/abstract-page-is-under-construction.png
         title: Static Website Development
     section_id: services
-    subtitle: ''
-    title: Services
+    subtitle: These are the services we are currently delivering to our clients
+    title: Services Offered
     type: section_features
   - bg: null
     reviews:

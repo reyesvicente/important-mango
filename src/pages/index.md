@@ -70,12 +70,27 @@ sections:
     title: Services
     type: section_features
   - actions:
-      - label: Get Started
-        url: /contact
+      - label: Book a meeting
+        url: 'https://drift.me/highcenburg/meeting'
     section_id: call-to-action
-    subtitle: 'Let''s Get Started With Your Website, Shall We?'
-    title: ''
+    subtitle: We usually work in +8 GMT but we can take meetings in Eastern Time
+    title: Need more information?
     type: section_cta
+  - bg: null
+    reviews:
+      - author: 'Ben, Flower Head Events '
+        content: >-
+          He was very patient in dealing with my issue. Will definitely hire him
+          again!
+      - author: 'Vicente, NVRMND CLOTHING CO'
+        content: >-
+          He made sure we got everything needed before we launch our site. We
+          saw that the process was tedious and he handled every process like a
+          true expert!
+    section_id: reviews
+    subtitle: These are what our clients have to say
+    title: Testimonials
+    type: section_reviews
 menus:
   main:
     title: Home

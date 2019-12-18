@@ -154,6 +154,7 @@ sections:
         image: /images/idea-min.png
         title: IdeaMakr
     section_id: portfolio
+    subtitle: All our works since our early days in web development
     title: Portfolio
     type: section_features
   - bg: gray

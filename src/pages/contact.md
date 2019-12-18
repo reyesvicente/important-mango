@@ -13,8 +13,8 @@ menus:
     title: Contact
     weight: 6
   secondary:
-    title: ''
-    weight: ''
+    title: Contact
+    weight: 9
 template: landing
 ---
 

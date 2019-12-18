@@ -168,7 +168,7 @@ sections:
       For more information about our privacy practices, if you have questions,
       or if you would like to make a complaint, please contact us on
       [Facebook](https://facebook.com/icvntechstudio).
-    title: Privacy
+    title: Privacy Policy
     type: section_content
 menus:
   secondary:

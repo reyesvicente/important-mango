@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Contact",
-          "url": "/contact"
+          "label": "Book A Meeting",
+          "url": "https://drift.me/highcenburg/meeting"
         }
       ]
     }

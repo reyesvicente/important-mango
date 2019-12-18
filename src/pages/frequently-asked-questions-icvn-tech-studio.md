@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions - ICVN Tech Studio
+title: Frequently Asked Questions
 sections:
   - bg: gray
     faqitems:

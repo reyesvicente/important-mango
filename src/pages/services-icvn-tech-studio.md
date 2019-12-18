@@ -76,7 +76,7 @@ sections:
     type: section_contact
 menus:
   main:
-    title: services
+    title: Services
     weight: 3
   secondary:
     title: services

@@ -2,9 +2,11 @@
 title: Contact
 sections:
   - bg: gray
-    content: 'Need help with any web development, shopify store setup? Hit us up below!'
+    content: >-
+      We can not wait to work with you in creating your online store. Message us
+      now to get a quote. _Store development starts at $1500 USD._
     section_id: contact
-    title: Contact
+    title: Get a Quote
     type: section_contact
 menus:
   secondary:

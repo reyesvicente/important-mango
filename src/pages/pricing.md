@@ -53,6 +53,12 @@ sections:
     title: Web Development Pricing
     type: section_pricing
   - bg: gray
+    content: |-
+      *\*Prices start at*
+
+      *\*T&C's apply*
+    type: section_content
+  - bg: gray
     pricingplans:
       - actions:
           - label: See all features

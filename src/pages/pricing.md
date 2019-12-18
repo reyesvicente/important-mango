@@ -12,10 +12,6 @@ sections:
           * Little to no dependency
           * Free Hosting!
           * 50 Contact Form Submissions per month
-
-            \
-            * *T&C Applies* \
-            * *Monthly Maintenance not included*
         highlight: false
         price: '*$500'
         title: Static Web Development
@@ -29,7 +25,7 @@ sections:
           * Exceedingly scalable
           * Incredibly versatile
 
-            \* *Hosting & Monthly Maintenance not included*
+            *\*Hosting & Monthly Maintenance Fee not included*
         highlight: true
         price: '*$1000'
         title: Django Web Development
@@ -40,9 +36,9 @@ sections:
           * Setting up and configuring Shopify stores (digital or physical)
           * Developing apps and/or custom functionality for stores
           * Providing marketing and/or business expertise
-          * Application Integration\
-            \
-            **Shopify Plan & Monthly Maintenance not included*
+          * Application Integration
+
+            *\*Shopify Plan & Monthly Maintenance Fee not included*
         highlight: false
         price: '*$1500'
         title: Shopify Store Development
@@ -50,12 +46,6 @@ sections:
     subtitle: These are our starting Web Development Prices
     title: Web Development Pricing
     type: section_pricing
-  - bg: gray
-    content: |-
-      *\*Prices start at*
-
-      *\*T&C's apply*
-    type: section_content
   - bg: gray
     pricingplans:
       - actions:
@@ -69,9 +59,9 @@ sections:
           * 1X Processing Power & Memory
           * 1 MySQL Database
           * 24/7/365 Support
-          * 99.9% Uptime Guarantee\
-              \
-              **T&C Apply*
+          * 99.9% Uptime Guarantee
+
+            *\*T&C Apply*
         highlight: false
         price: $0.80/mo
         title: Hostinger Shared Hosting
@@ -86,8 +76,8 @@ sections:
           * Standard Performance
           * 1 Included Domain
           * 5 Parked Domains
-          * 25 Sub Domains\
-            \
+          * 25 Sub Domains
+
             *\*T&C Apply*
         highlight: false
         price: $3.95/mo
@@ -102,19 +92,23 @@ sections:
           * Unlimited Bandwidth
           * 3 GB RAM
           * 2 CPU Cores
+
+            *\*T&C Apply*
         highlight: false
         price: $7.45/mo
         title: Hostinger Cloud Hosting
       - actions:
           - label: See all features
             url: 'https://bit.ly/34Cvn94'
-        details: |
+        details: |-
           * 2 Cores
           * 30 GB SSD Storage
           * 2 GB RAM
           * 1 TB Bandwidth
           * 1 IP Address
           * 24/7 Support
+
+            *\*T&C Apply*
         highlight: false
         price: $19.99/mo
         title: Bluehost Cloud Hosting
@@ -122,6 +116,9 @@ sections:
     subtitle: We've partnered with Bluehost & Hostinger to satisfy our web hosting needs
     title: Web Hosting Pricing
     type: section_pricing
+  - bg: gray
+    content: '*\*Prices start at*'
+    type: section_content
   - bg: gray
     faqitems:
       - answer: >-

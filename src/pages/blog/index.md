@@ -3,10 +3,10 @@ title: Blog
 menus:
   main:
     title: ''
-    weight: ''
+    weight: 4
   secondary:
     title: ''
-    weight: ''
+    weight: 4
 template: blog
 ---
 

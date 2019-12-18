@@ -30,7 +30,7 @@ sections:
         question: Do you provide content for a website?
       - answer: We have a very talented artist who creates our graphics/illustrations.
         question: Who makes the graphics/illustrations?
-    section_id: faq
+    section_id: ''
     title: Frequently Asked Questions
     type: section_faq
 menus:

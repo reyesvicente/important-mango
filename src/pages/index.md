@@ -73,8 +73,8 @@ sections:
       - label: Get Started
         url: /contact
     section_id: call-to-action
-    subtitle: ''
-    title: 'Let''s Get Started With Your Website, Shall We?'
+    subtitle: 'Let''s Get Started With Your Website, Shall We?'
+    title: ''
     type: section_cta
 menus:
   main:

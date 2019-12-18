@@ -77,7 +77,7 @@ sections:
 menus:
   main:
     title: Services
-    weight: 5
+    weight: 3
   secondary:
     title: Services
     weight: 3

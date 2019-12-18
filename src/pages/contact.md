@@ -4,7 +4,7 @@ sections:
   - bg: gray
     content: >-
       We can not wait to work with you in creating your online store. Message us
-      now to get a quote. _Store development starts at $1500 USD._
+      now to get a quote. *Store development starts at $1500 USD.*
     section_id: contact
     title: Get a Quote
     type: section_contact

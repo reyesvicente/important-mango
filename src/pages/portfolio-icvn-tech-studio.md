@@ -156,6 +156,13 @@ sections:
     section_id: portfolio
     title: Portfolio
     type: section_features
+  - bg: gray
+    section_id: contact
+    subtitle: >-
+      We can not wait to work with you in creating your online store. Message us
+      now to get a quote. We're friendly too (:
+    title: Contact Us
+    type: section_contact
 menus:
   main:
     title: Portfolio

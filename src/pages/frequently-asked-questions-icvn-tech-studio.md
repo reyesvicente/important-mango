@@ -36,7 +36,7 @@ sections:
 menus:
   main:
     title: FAQ
-    weight: 5
+    weight: 6
   secondary:
     title: FAQ
     weight: 6

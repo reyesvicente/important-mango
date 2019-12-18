@@ -11,14 +11,9 @@ sections:
           * Blazing Fast
           * Little to no dependency
           * Free Hosting!
-          * 50 Contact Form Submissions per month
-
-
-
-
-
-          *T&C Applies*
-          *Monthly Maintenance not included*
+          * 50 Contact Form Submissions per month\
+            * *T&C Applies* \
+            * *Monthly Maintenance not included*
         highlight: false
         price: '*$500'
         title: Static Web Development
@@ -32,7 +27,7 @@ sections:
           * Exceedingly scalable
           * Incredibly versatile
 
-            \**Hosting & Monthly Maintenance not included*
+            \* *Hosting & Monthly Maintenance not included*
         highlight: true
         price: '*$1000'
         title: Django Web Development
@@ -43,8 +38,8 @@ sections:
           * Setting up and configuring Shopify stores (digital or physical)
           * Developing apps and/or custom functionality for stores
           * Providing marketing and/or business expertise
-
-          *Shopify Plan & Monthly Maintenance not included*
+          * Application Integration\
+            **Shopify Plan & Monthly Maintenance not included*
         highlight: false
         price: '*$1500'
         title: Shopify Store Development

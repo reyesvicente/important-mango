@@ -19,11 +19,22 @@
     "subscribe_content": "Stay up to date with our latest developments.",
     "has_subscribe": true,
     "social_title": "Community",
-    "tagline": "",
+    "tagline": "The most dangerous tech studio in a badass country.",
     "logo_img": "/images/logo.png",
     "has_social": true,
     "content": "&copy; ICVN Tech Studio. All rights reserved.",
-    "links": [],
+    "links": [
+      {
+        "text": "Privacy Policy",
+        "url": "/privacy",
+        "new_window": false
+      },
+      {
+        "text": "Terms of Service",
+        "url": "/terms-of-service",
+        "new_window": false
+      }
+    ],
     "nav_title": "Company",
     "has_nav": true
   }

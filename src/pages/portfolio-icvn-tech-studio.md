@@ -64,6 +64,7 @@ sections:
 
 
           Service Offered: Django Web Application Development
+        image: /images/tel.png
         title: Hotel Website
       - actions:
           - label: View Site

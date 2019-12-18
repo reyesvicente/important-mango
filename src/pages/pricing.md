@@ -20,7 +20,7 @@ sections:
           *T&C Applies*
           *Monthly Maintenance not included*
         highlight: false
-        price: Starts at $500
+        price: '*$500'
         title: Static Web Development
       - actions:
           - label: Inquire
@@ -34,7 +34,7 @@ sections:
 
             \**Hosting & Monthly Maintenance not included*
         highlight: true
-        price: Starts at $1000
+        price: '*$1000'
         title: Django Web Development
       - actions:
           - label: Inquire
@@ -46,7 +46,7 @@ sections:
 
           *Shopify Plan & Monthly Maintenance not included*
         highlight: false
-        price: Starts at $1500
+        price: '*$1500'
         title: Shopify Store Development
     section_id: web-pricing
     subtitle: These are our starting Web Development Prices

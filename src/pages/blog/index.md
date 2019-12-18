@@ -2,11 +2,11 @@
 title: Blog
 menus:
   main:
-    title: Blog
-    weight: 5
+    title: ''
+    weight: ''
   secondary:
-    title: Blog
-    weight: 5
+    title: ''
+    weight: ''
 template: blog
 ---
 

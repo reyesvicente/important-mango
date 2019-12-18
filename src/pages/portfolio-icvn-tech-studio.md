@@ -170,6 +170,7 @@ menus:
     title: Portfolio
     weight: 4
   secondary:
+    identifier: portfolio
     title: Portfolio
     weight: 4
 template: landing

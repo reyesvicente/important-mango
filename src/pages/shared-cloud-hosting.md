@@ -1,5 +1,5 @@
 ---
-title: Hosting
+title: Web Hosting - ICVN Tech Studio
 sections:
   - bg: gray
     pricingplans:
@@ -61,13 +61,13 @@ sections:
     type: section_pricing
 menus:
   main:
-    identifier: web-hosting
+    identifier: ''
     title: Web Hosting
-    weight: 5
+    weight: 4
   secondary:
-    identifier: web-hosting
+    identifier: ''
     title: web hosting
-    weight: 5
+    weight: 4
 template: landing
 ---
 

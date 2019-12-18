@@ -41,11 +41,7 @@ sections:
           application.
 
 
-          Consequently, a static web page displays the same information for all
-          users, from all contexts, subject to modern capabilities of a web
-          server to negotiate content-type or language of the document where
-          such versions are available and the server is configured to do so. -
-          [Wikipedia](https://en.wikipedia.org/wiki/Static_web_page)
+          \- [Wikipedia](https://en.wikipedia.org/wiki/Static_web_page)
         image: /images/abstract-page-is-under-construction.png
         title: Static Website Development
     section_id: services

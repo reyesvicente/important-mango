@@ -14,6 +14,27 @@ sections:
   - bg: gray
     featureslist:
       - actions:
+          - label: Get a quote
+            url: /contact
+        content: >-
+          The client specifically requested for a drop shipping website in
+          Shopify wherein he would ship products from Oberlo.
+        image: /images/nvm.png
+        title: NVRMND CLOTHING CO
+      - actions:
+          - label: Get a quote
+            url: /contact
+        content: >-
+          The client came to me to say that she wanted our local payment methods
+          integrated on to her store in Shopify.
+        image: /images/bad.png
+        title: Bad Guyz R Us
+    section_id: portfolio
+    title: Check out our recent works
+    type: section_features
+  - bg: gray
+    featureslist:
+      - actions:
           - label: Inquire
             url: /contact
         content: >-

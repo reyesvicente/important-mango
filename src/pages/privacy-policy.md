@@ -172,8 +172,8 @@ sections:
     type: section_content
 menus:
   secondary:
-    title: Privacy Policy
-    weight: 8
+    title: ''
+    weight: ''
 template: landing
 ---
 

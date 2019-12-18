@@ -168,8 +168,8 @@ menus:
     title: Portfolio
     weight: 4
   secondary:
-    title: ''
-    weight: ''
+    title: Portfolio
+    weight: 4
 template: landing
 ---
 

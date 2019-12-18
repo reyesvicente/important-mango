@@ -2,8 +2,8 @@
 title: Home - ICVN Tech Studio
 sections:
   - actions:
-      - label: Case Studies
-        url: /case-studies
+      - label: Services
+        url: /services
     content: >-
       We're a small tech studio who helps small & medium business' with website
       development using Shopify & the Django Web Framework.

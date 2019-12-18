@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home - ICVN Tech Studio
 sections:
   - actions:
       - label: Case Studies

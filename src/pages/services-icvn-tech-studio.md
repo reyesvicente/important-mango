@@ -79,8 +79,8 @@ menus:
     title: Services
     weight: 3
   secondary:
-    title: Services
-    weight: 3
+    title: ''
+    weight: ''
 template: landing
 ---
 

@@ -64,7 +64,10 @@ sections:
           * 100 GB Bandwidth
           * 1X Processing Power & Memory
           * 1 MySQL Database
-          * 24/7/365 Support\
+          * 24/7/365 Support
+          * 99.9% Uptime Guarantee
+
+          \
             \
             **T&C Apply*
         highlight: false

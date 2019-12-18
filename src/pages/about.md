@@ -1,5 +1,5 @@
 ---
-title: About us - ICVN Tech Studio
+title: About us
 subtitle: Learn about the history of the company
 img_path: /images/black-flat-screen-computer-monitor-1714208.jpg
 menus:

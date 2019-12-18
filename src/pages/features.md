@@ -1,41 +1,44 @@
 ---
 title: Features
 sections:
-  - type: section_content
-    section_id: features
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+  - actions:
+      - label: Case Study
+        url: /case-studies
+      - label: Inquire
+        url: /contact
     bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: section_cta
+    content: >-
+      As a Shopify Partner, we aim to make your brand visible worldwide. Our
+      goal is to remove all the pains you have as a small & medium business
+      owner. What we can do to help you are:
+
+
+      * Setting up and configuring Shopify stores (digital or physical)
+
+      * Developing apps and/or custom functionality for stores.
+
+      * Providing marketing and/or business expertise.
+
+
+      We will be beside you throughout this journey and guide you on what has to
+      be done. What are you waiting for? Contact us now!
+    image: /images/icvn-tech-shopify.png
+    section_id: shopify
+    title: Shopify
+    type: section_content
+  - actions:
+      - label: Get it now!
+        url: /contact
     section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
+    subtitle: >-
+      *Store Development starts at USD $1500 and can reach $15000 depending on
+      the store.
+    title: Get your free 14 day trial now!
+    type: section_cta
 menus:
   main:
-    title: Features
+    title: Shopify
     weight: 2
 template: landing
 ---
+

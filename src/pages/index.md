@@ -57,7 +57,7 @@ sections:
       - label: View Recent Works
         url: /portfolio
     section_id: more
-    title: Want to see more recent works?
+    title: Want to see more of our recent works?
     type: section_cta
   - bg: gray
     featureslist:

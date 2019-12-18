@@ -173,7 +173,7 @@ sections:
 menus:
   secondary:
     title: Privacy Policy
-    weight: 2
+    weight: 8
 template: landing
 ---
 

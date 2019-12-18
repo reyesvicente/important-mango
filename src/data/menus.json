@@ -1,28 +1,3 @@
 {
-  "secondary": [
-    {
-      "identifier": "privacy",
-      "title": "Privacy Policy",
-      "url": "/privacy",
-      "weight": 1
-    },
-    {
-      "identifier": "terms",
-      "title": "Terms of Service",
-      "url": "/terms-of-service/",
-      "weight": 4
-    },
-    {
-      "identifier": "faq",
-      "title": "FAQ",
-      "url": "/frequently-asked-questions-icvn-tech-studio/",
-      "weight": 3
-    },
-    {
-      "identifier": "blog",
-      "title": "Blog",
-      "url": "/blog",
-      "weight": 4
-    }
-  ]
+  "secondary": []
 }

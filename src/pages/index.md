@@ -16,7 +16,7 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Get a quote
+          - label: Get Quote
             url: /contact
         content: >-
           The client came to me to say that she wanted our local payment methods
@@ -29,7 +29,7 @@ sections:
         image: /images/bad.png
         title: Bad Guyz R Us
       - actions:
-          - label: Get a quote
+          - label: Get Quote
             url: /contact
         content: >-
           The client specifically requested for a drop shipping website in

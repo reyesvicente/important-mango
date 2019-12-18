@@ -1,6 +1,6 @@
 ---
 title: About us
-subtitle: Learn about the history of the company
+subtitle: ''
 img_path: /images/black-flat-screen-computer-monitor-1714208.jpg
 menus:
   main:

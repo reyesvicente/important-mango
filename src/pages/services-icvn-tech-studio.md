@@ -1,5 +1,5 @@
 ---
-title: Services - ICVN Tech Studio
+title: Services Offered
 sections:
   - bg: gray
     featureslist:

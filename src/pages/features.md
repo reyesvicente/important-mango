@@ -38,10 +38,10 @@ sections:
 menus:
   main:
     title: Shopify
-    weight: 2
+    weight: 3
   secondary:
     title: Shopify
-    weight: 2
+    weight: 3
 template: landing
 ---
 

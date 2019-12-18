@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Shopify Store Development - ICVN Tech Studio
 sections:
   - actions:
       - label: Case Study

@@ -7,20 +7,6 @@ sections:
           - label: Inquire
             url: /contact
         details: |-
-          * Setting up and configuring Shopify stores (digital or physical)
-          * Developing apps and/or custom functionality for stores
-          * Providing marketing and/or business expertise
-
-
-
-          _\*Shopify Plan & Monthly Maintenance not included_
-        highlight: true
-        price: Development Starts at $1500
-        title: Shopify Store Development
-      - actions:
-          - label: Inquire
-            url: /contact
-        details: |-
           * Ridiculously fast
           * Fully loaded
           * Reassuringly secure
@@ -30,9 +16,23 @@ sections:
 
 
           _\*Hosting & Monthly Maintenance not included_
-        highlight: true
-        price: Development Starts at $750
+        highlight: false
+        price: $1000
         title: Django Web Development
+      - actions:
+          - label: Inquire
+            url: /contact
+        details: |-
+          * Setting up and configuring Shopify stores (digital or physical)
+          * Developing apps and/or custom functionality for stores
+          * Providing marketing and/or business expertise
+
+
+
+          _\*Shopify Plan & Monthly Maintenance not included_
+        highlight: true
+        price: $1500
+        title: Shopify Store Development
       - actions:
           - label: Inquire
             url: /contact
@@ -46,7 +46,8 @@ sections:
 
           _\*T&C Applies_\
           _\*Monthly Maintenance not included_
-        price: Development Starts at $350
+        highlight: false
+        price: $500
         title: Static Web Development
     section_id: pricing
     subtitle: These are our Web Development Prices

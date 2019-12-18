@@ -8,7 +8,7 @@ menus:
     weight: 2
   secondary:
     title: About Us
-    weight: 4
+    weight: 3
 template: page
 ---
 Welcome to ICVN Tech Studio, your number one source for Custom Web Development. We're dedicated to providing you the very best of Custom Web Development, with an emphasis on Shopify Development, Django Web Development & Static Web Development.

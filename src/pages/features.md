@@ -1,11 +1,9 @@
 ---
-title: Shopify Store Development - ICVN Tech Studio
+title: Services - ICVN Tech Studio
 sections:
   - actions:
-      - label: Case Study
-        url: /case-studies
       - label: Inquire
-        url: /contact
+        url: '#contact'
     bg: gray
     content: >-
       As a Shopify Partner, we aim to make your brand visible worldwide. Our
@@ -22,25 +20,69 @@ sections:
 
       We will be beside you throughout this journey and guide you on what has to
       be done. What are you waiting for? Contact us now!
-    image: /images/icvn-tech-shopify.png
+    image: /images/shopify-partner.png
     section_id: shopify
-    title: Shopify
+    title: Shopify Store Development
     type: section_content
   - actions:
-      - label: Get it now!
-        url: /contact
-    section_id: call-to-action
+      - label: Inquire
+        url: '#contact'
+    bg: gray
+    content: >-
+      As a Django Expert, we aim to make your web application exactly how you
+      want it. Our goal is to remove all the pains you have as a small & medium
+      business owner. What we can do to help you are:
+
+
+      * eCommerce Development
+
+      * Customer Relationship Management 
+
+      * Custom Web Development
+
+
+      We will be beside you throughout this journey and guide you on what has to
+      be done. What are you waiting for? Contact us now!
+    image: /images/django-logo-negative.png
+    section_id: django
+    title: Django Web App Development
+    type: section_content
+  - actions:
+      - label: Inquire
+        url: '#contact'
+    bg: gray
+    content: >-
+      We aim to make your static web application blazing fast and secure. Our
+      goal is to develop your web application as you envisioned it. What we can
+      do to help you are:
+
+
+      * Landing Pages
+
+      * Event Pages
+
+      * Custom Static Website
+
+
+      We will be beside you throughout this journey and guide you on what has to
+      be done. What are you waiting for? Contact us now!
+    image: /images/abstract-page-is-under-construction.png
+    section_id: static
+    title: Static Website Development
+    type: section_content
+  - bg: gray
+    section_id: contact
     subtitle: >-
-      *Store Development starts at USD $1500 and can reach $15000 depending on
-      the store.
-    title: Get your free 14 day trial now!
-    type: section_cta
+      Have you decided yet what you need? Contact us so we can talk about your
+      need!
+    title: Contact Us!
+    type: section_contact
 menus:
   main:
-    title: Shopify
+    title: Services
     weight: 3
   secondary:
-    title: Shopify
+    title: Services
     weight: 3
 template: landing
 ---

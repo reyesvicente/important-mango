@@ -96,8 +96,8 @@ menus:
     title: Home
     weight: 1
   secondary:
-    title: ''
-    weight: ''
+    title: Home
+    weight: 1
 template: landing
 ---
 

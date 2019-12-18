@@ -1,5 +1,5 @@
 ---
-title: Shared & Cloud Hosting
+title: Hosting
 sections:
   - bg: gray
     pricingplans:

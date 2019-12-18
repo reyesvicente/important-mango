@@ -57,8 +57,8 @@ sections:
     faqitems:
       - answer: >-
           Website Development prices depend on a lot of factors. We'd love to
-          talk to you about the process in developing websites. Contact us at
-          our [contact page](/contact)!
+          talk to you about the process in developing websites. Contact us for
+          more details!
         question: How much does a website cost?
       - answer: >-
           Depending on the complexity of the web application, we can develop one

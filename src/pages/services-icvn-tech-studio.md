@@ -65,7 +65,7 @@ sections:
         title: Static Website Development
     section_id: services
     subtitle: These are the services we are comfortable offering to our clients
-    title: Services offered
+    title: Services Offered
     type: section_features
   - bg: gray
     section_id: contact

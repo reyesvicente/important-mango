@@ -15,6 +15,36 @@ sections:
     type: section_hero
   - bg: gray
     featureslist:
+      - image: /images/flame-8.png
+        title: Identifying Client Needs
+      - image: /images/flame-remote-working.png
+        title: Defining the Scope & Features
+      - image: /images/flame-design-science.png
+        title: Prototype Creation
+      - image: /images/flame-sign-up.png
+        title: Drafting the Content
+      - image: /images/flame-delete-confirmation.png
+        title: Actual Development
+      - image: /images/flame-coming-soon.png
+        title: Testing
+      - image: /images/flame-education-1.png
+        title: Launch
+    section_id: process
+    subtitle: >-
+      Over the years, in building web applications, we've learned that at the
+      start of our journey, our web development process was scattered. Since
+      then, we developed a process in which we made sure that we are more
+      productive and are more time saving when developing web applications.
+    title: Our Process
+    type: section_features
+  - actions:
+      - label: Inquire Now
+        url: /contact
+    section_id: process-cta
+    title: Are you ready to develop your web application with us?
+    type: section_cta
+  - bg: gray
+    featureslist:
       - actions:
           - label: Get Quote
             url: /contact

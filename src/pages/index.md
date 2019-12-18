@@ -65,7 +65,7 @@ menus:
     weight: 1
   secondary:
     title: Home
-    weight: 4
+    weight: 1
 template: landing
 ---
 

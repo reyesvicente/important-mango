@@ -50,6 +50,15 @@ sections:
     subtitle: These are the services we are currently delivering to our clients
     title: Services Offered
     type: section_features
+  - actions:
+      - label: Inquire Now
+        url: /contact
+      - label: Book a meeting
+        url: 'https://drift.me/highcenburg/meeting'
+    section_id: call-to-action
+    subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
+    title: Need a website made?
+    type: section_cta
   - bg: gray
     featureslist:
       - actions:
@@ -88,7 +97,8 @@ sections:
         image: /images/bev.png
         title: Beverly Pups
     section_id: portfolio
-    title: Check Out Our Recent Works
+    subtitle: These are some of the web development projects we've worked on in the past
+    title: Our Recent Works
     type: section_features
   - actions:
       - label: View Recent Works
@@ -142,11 +152,12 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Book a meeting
+      - label: Inquire Now
+        url: /contact
+      - label: Book a Meeting
         url: 'https://drift.me/highcenburg/meeting'
-    section_id: call-to-action
-    subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
-    title: Need a website made?
+    section_id: cta-4
+    title: Let's start developing your website?
     type: section_cta
 menus:
   main:

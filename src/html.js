@@ -6,13 +6,13 @@ export default function HTML(props) {
     <html {...props.htmlAttributes}>
       <head>
       <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154728787-1"></script>
+      <script async src="https://www.googletagmanager.com/gtag/js?id={{USER_ID}}"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
 
-        gtag('config', 'UA-154728787-1');
+        gtag('config', '{{USER_ID}}');
       </script>
         {props.headComponents}
       </head>

@@ -1,7 +1,7 @@
 ---
 title: About us
 subtitle: ''
-img_path: /images/black-flat-screen-computer-monitor-1714208.jpg
+img_path: /images/about.jpg
 menus:
   main:
     title: About Us

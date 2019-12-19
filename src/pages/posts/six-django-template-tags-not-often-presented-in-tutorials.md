@@ -22,69 +22,69 @@ Side note: There are spaces on the template tag because I have not figured out h
 
 The for tag can take an optional `{% empty %}` clause whose text is displayed if the given array is empty or could not be found:
 
-> `{% for student in student_list %}`
+`{% for student in student_list %}`
 
->`...`
+`...`
 
-> `{% empty %}`
+`{% empty %}`
 
-> `...`
+`...`
 
-> `{% endfor %}`
+`{% endfor %}`
 
 Which is also equivalent to:
 
-> `{% if student_list %}`
+`{% if student_list %}`
 
-> `{% for student in student_list %}`
+`{% for student in student_list %}`
 
-> `...`
+`...`
 
-> `{% endfor %}`
+`{% endfor %}`
 
-> `{% else %}`
+`{% else %}`
 
-> `...`
+`...`
 
-> `{% endif %}`
+`{% endif %}`
 
 # **2.) lorem**
 
 No, you don't need any other packages nor copy/paste a lorem text. This tag displays random “lorem ipsum” Latin text. This is useful for providing sample data in templates. Unless, of course, you don't.
 
-> `{% lorem [count] [method] [random] %}`
+`{% lorem [count] [method] [random] %}`
 
 e.g.
 
-> `{% lorem %} will output the common “lorem ipsum” paragraph.`
+`{% lorem %} will output the common “lorem ipsum” paragraph.`
 
-> `{% lorem 3 p %} will output the common “lorem ipsum” paragraph and two random paragraphs each wrapped in HTML <p> tags.`
+`{% lorem 3 p %} will output the common “lorem ipsum” paragraph and two random paragraphs each wrapped in HTML <p> tags.`
 
-> `{% lorem 2 w random %} will output two random Latin words.`
+`{% lorem 2 w random %} will output two random Latin words.`
 
 # 3.) now
 
 Displays the current date and/or time, using a format according to the given string. Such string can contain format specifiers characters as described in the date filter section.
 
-> `{% now "jS F Y" %}`
+`{% now "jS F Y" %}`
 
 # 4.) resetcycle
 
 Resets a previous cycle so that it restarts from its first item at its next encounter. Without arguments,  `{% resetcycle %}` will reset the last `{% cycle %}` defined in the template.
 
-> `{% for coach in coach_list %}`
+`{% for coach in coach_list %}`
 
-> `{{ coach.name }}`
+`{{ coach.name }}`
 
-> `{% for athlete in coach.athlete_set.all %}`
+`{% for athlete in coach.athlete_set.all %}`
 
-> `<p class="{% cycle 'odd' 'even' %}">{{ athlete.name }}</p>`
+`<p class="{% cycle 'odd' 'even' %}">{{ athlete.name }}</p>`
 
-> `{% endfor %}`
+`{% endfor %}`
 
-> `{% resetcycle %}`
+`{% resetcycle %}`
 
-> `{% endfor %}`
+`{% endfor %}`
 
 This example would return this HTML:
 

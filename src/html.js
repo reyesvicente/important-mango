@@ -33,7 +33,7 @@ export default function HTML(props) {
         logged_in_greeting="Hi! How can we help you?"
         logged_out_greeting="Hi! How can we help you?">
             </div>
-      <!-- End of Facebook SDK for JavaScript -->
+      <!-- End of Facebook SDK for JavaScript-->
         {props.preBodyComponents}
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.

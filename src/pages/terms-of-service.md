@@ -428,7 +428,7 @@ sections:
       SECTION 20 - CONTACT INFORMATION
 
 
-      Questions about the Terms of Service should be send to our [Facebook
+      Questions about the Terms of Service should be sent to our [Facebook
       Page](https://facebook.com/icvntechstudio).
     title: Terms of Service
     type: section_content
@@ -438,4 +438,3 @@ menus:
     weight: 7
 template: landing
 ---
-

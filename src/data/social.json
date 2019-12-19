@@ -14,6 +14,22 @@
       "type": "facebook",
       "title": "Facebook",
       "url": "https://facebook.com/icvntechstudio"
+    },
+    {
+      "title": "Hackernoon",
+      "url": "https://hackernoon.com/@highcenbug"
+    },
+    {
+      "title": "LinkedIn",
+      "url": "https://linkedin.com/in/vicentereyes0888"
+    },
+    {
+      "title": "DEV",
+      "url": "https://dev.to/highcenburg"
+    },
+    {
+      "title": "Medium",
+      "url": "https://medium.com/@highcenburg"
     }
   ]
 }

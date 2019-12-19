@@ -3,6 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "ICVN Tech Studio",
+    "description": "Top website development company in manila, philippines that focuses on shopify & django web development.",
     "logo_img": "/images/logo.png",
     "has_nav": true,
     "menu": {
@@ -16,7 +17,7 @@
   },
   "footer": {
     "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_content": "Stay up to date with our latest news & developments.",
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Top website development company in manila, philippines that focuses on shopify & django web development.",

@@ -11,7 +11,7 @@ sections:
 menus:
   main:
     title: Contact Us
-    weight: 6
+    weight: 7
   secondary:
     title: Contact Us
     weight: 9

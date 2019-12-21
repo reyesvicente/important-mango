@@ -35,7 +35,7 @@ sections:
           Django was developed on top of Python and is a secure, scaleable and
           fast web framework which is used by billion dollar companies such as
           YouTube, Pinterest, Instagram, Quora and the likes.
-        image: /images/django-logo-negative.png
+        image: /images/django-green-transparent.png
         title: Django Web Development
       - actions:
           - label: Get Quote

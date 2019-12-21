@@ -4,7 +4,7 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: I want this!
+          - label: Buy Coffee Mug!
             url: 'https://gum.co/FUUes'
         content: >-
           This sturdy mug is perfect for your morning coffee, afternoon tea, or
@@ -29,7 +29,7 @@ sections:
         image: /images/mockup_handle-on-right_11oz-min.png
         title: Work Mug (11/15oz)
       - actions:
-          - label: I want this!
+          - label: Buy Stickers!
             url: 'https://gum.co/FUUes'
         content: >-
           These stickers are printed on durable, high opacity adhesive vinyl

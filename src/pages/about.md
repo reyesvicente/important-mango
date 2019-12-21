@@ -1,7 +1,7 @@
 ---
 title: About us
 subtitle: ''
-img_path: /images/about.jpg
+img_path: /images/undraw-team.png
 menus:
   main:
     title: About Us

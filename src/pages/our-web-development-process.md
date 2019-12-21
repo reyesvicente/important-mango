@@ -61,7 +61,7 @@ menus:
     weight: 5
   secondary:
     title: Our Process
-    weight: 5
+    weight: 6
 template: landing
 ---
 

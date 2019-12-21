@@ -5,8 +5,6 @@ sections:
     content: All our works since our early days in web development
     featureslist:
       - actions:
-          - label: View Site
-            url: 'https://bad-guyz-r-us.com/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -18,8 +16,6 @@ sections:
         image: /images/bad.png
         title: Bad Guyz R Us
       - actions:
-          - label: View Site
-            url: 'https://beverlypups.com/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: |-
@@ -29,8 +25,6 @@ sections:
         image: /images/bev.png
         title: Beverly Pups
       - actions:
-          - label: View Site
-            url: 'https://flowerheadevents.com.au/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -43,8 +37,6 @@ sections:
         image: /images/flower-min.png
         title: Flower Head Events
       - actions:
-          - label: View Site
-            url: 'https://nvrmnd-clothing-co.myshopify.com/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -56,8 +48,6 @@ sections:
         image: /images/nvm.png
         title: NVRMND CLOTHING CO
       - actions:
-          - label: View Site
-            url: 'https://raveforgood.co/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -69,8 +59,6 @@ sections:
         image: /images/rave-min.png
         title: Rave For Good
       - actions:
-          - label: View Site
-            url: 'https://herbguard.com'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -83,8 +71,6 @@ sections:
         image: /images/herbguard.png
         title: HerbGuard
       - actions:
-          - label: View Site
-            url: 'https://icvn-hotel.herokuapp.com/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -97,8 +83,6 @@ sections:
         image: /images/tel.png
         title: Hotel Website
       - actions:
-          - label: View Site
-            url: 'https://ideamaker.agency/'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -111,8 +95,6 @@ sections:
         image: /images/idea-min.png
         title: IdeaMakr
       - actions:
-          - label: View Site
-            url: 'https://soulheistmusic.icu'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -124,8 +106,6 @@ sections:
         image: /images/sh.png
         title: Soul Heist Music
       - actions:
-          - label: View Site
-            url: 'https://enzobbs420.netlify.com'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-

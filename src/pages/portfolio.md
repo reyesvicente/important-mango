@@ -122,10 +122,10 @@ sections:
 menus:
   main:
     title: Portfolio
-    weight: 4
+    weight: 5
   secondary:
     title: Portfolio
-    weight: 3
+    weight: 5
 template: landing
 ---
 

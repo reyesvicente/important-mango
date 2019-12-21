@@ -50,7 +50,7 @@ sections:
 
 
           \- [Wikipedia](https://en.wikipedia.org/wiki/Static_web_page)
-        image: /images/abstract-page-is-under-construction.png
+        image: /images/undraw-landing.png
         title: Static Website Development
     section_id: services
     subtitle: These are the services we are currently delivering to our clients

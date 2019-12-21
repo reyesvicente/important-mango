@@ -42,7 +42,7 @@ sections:
 
           We will be beside you throughout this journey and guide you on what
           has to be done. What are you waiting for? Contact us now!
-        image: /images/django-logo-negative.png
+        image: /images/django-green-transparent.png
         title: Django Web App Development
       - actions:
           - label: Inquire Now

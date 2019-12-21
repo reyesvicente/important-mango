@@ -33,9 +33,6 @@ sections:
     section_id: ''
     title: Frequently Asked Questions
     type: section_faq
-  - bg: white
-    image: /images/undraw-welcome.png
-    type: section_content
 menus:
   main:
     title: FAQ

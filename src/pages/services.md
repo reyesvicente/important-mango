@@ -62,7 +62,7 @@ sections:
 
           We will be beside you throughout this journey and guide you on what
           has to be done. What are you waiting for? Contact us now!
-        image: /images/flame-remote-working.png
+        image: /images/undraw-landing.png
         title: Static Website Development
     section_id: services
     title: Services offered

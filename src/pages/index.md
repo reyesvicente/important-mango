@@ -11,7 +11,7 @@ sections:
       development using Shopify & the Django Web Framework.
     image: /images/icvn-tech-shopify.png
     section_id: hero
-    title: We are ICVN Tech Studio
+    title: ICVN Tech Studio
     type: section_hero
   - bg: gray
     featureslist:

@@ -16,6 +16,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="google-site-verification" content="dXb4OOKiaT7_QLCjkrzaZcYH8Omxy8LnMfaG-Zn9trk" />
+                    <meta name="yandex-verification" content="c7d9ff4b0d2627e5" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet"/>
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')}/>
                 </Helmet>

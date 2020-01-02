@@ -18,9 +18,6 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
             <script src={safePrefix('assets/js/plugins.js')}/>
             <script src={safePrefix('assets/js/init.js')}/>
             <script src={safePrefix('assets/js/main.js')}/>
-            <!-- Start of HubSpot Embed Code -->
-            <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/6915103.js"></script>
-            <!-- End of HubSpot Embed Code -->
         </React.Fragment>
     ]);
 

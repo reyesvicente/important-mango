@@ -1,5 +1,5 @@
 ---
-title: My top 5 Django Resources
+title: My Top 5 Django Resources
 date: 2020-01-08T00:45:43.926Z
 thumb_img_path: /images/marginalia-programming.png
 img_path: ''

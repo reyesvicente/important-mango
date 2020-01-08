@@ -70,7 +70,7 @@ I remember the first time I was able to pull something off using the documentati
 
 ### Conclusion:
 
-These are my 4 personal resources when I'm developing using Django. I am not affiliated with them, nor is working for them. I've had this thought on my head for 3 days now hence I decided to write it before I slept.
+These are my 5 personal resources when I'm developing using Django. I am not affiliated with them, nor is working for them. I've had this thought on my head for 3 days now hence I decided to write it before I slept.
 
 ## Resources:
 

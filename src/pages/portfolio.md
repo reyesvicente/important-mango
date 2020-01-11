@@ -8,22 +8,13 @@ sections:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
-          The client came to me to say that she wanted our local payment methods
-          integrated on to her store in Shopify.
+          The client specifically requested for a drop shipping website in
+          Shopify wherein he would ship products from Oberlo.
 
 
           Service Offered: Shopify Development
-        image: /images/bad.png
-        title: Bad Guyz R Us
-      - actions:
-          - label: Book a Meeting
-            url: 'https://drift.me/highcenburg/meeting'
-        content: |-
-          Client needed a website to handle their product sales online.
-
-          Service Offered: Shopify Development
-        image: /images/bev.png
-        title: Beverly Pups
+        image: /images/nvm.png
+        title: NVRMND CLOTHING CO
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
@@ -36,17 +27,6 @@ sections:
           Service Offered: Shopify Development
         image: /images/flower-min.png
         title: Flower Head Events
-      - actions:
-          - label: Book a Meeting
-            url: 'https://drift.me/highcenburg/meeting'
-        content: >-
-          The client specifically requested for a drop shipping website in
-          Shopify wherein he would ship products from Oberlo.
-
-
-          Service Offered: Shopify Development
-        image: /images/nvm.png
-        title: NVRMND CLOTHING CO
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'

@@ -7,6 +7,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://nvrmnd-clothing-co.myshopify.com/'
         content: >-
           The client specifically requested for a drop shipping website in
           Shopify wherein he would ship products from Oberlo.
@@ -18,6 +20,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://flowerheadevents.com.au/'
         content: >-
           The client needed a small fix on his website. He needed the "shop now"
           button on his Facebook Messenger Page because some clients
@@ -30,6 +34,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://raveforgood.co'
         content: >-
           The client needed a landing page for his affiliates which was done
           using WordPress.
@@ -41,6 +47,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://herbguard.com'
         content: >-
           The work we did here was to add the newsletter form using Klaviyo and
           to add a Product Tabs via Meta Fields App. Another task was to add the
@@ -53,6 +61,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://icvn-hotel.herokuapp.com'
         content: >-
           A Fictitious Real Estate/Hotel Website developed with
           cookiecutter-django to showcase the developers' skill in the Django
@@ -65,6 +75,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://ideamakr.com'
         content: >-
           The client needed his scaffold made for his web development agency.
           The project was made using the Django Web Framework and was finished
@@ -77,6 +89,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://soulheistmusic.icu'
         content: >-
           The artist just released new music and he needed a landing page to use
           for his promotion. 
@@ -88,6 +102,8 @@ sections:
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://enzobbs420.netlify.com'
         content: >-
           A Brochure-Type Web Application that shows the Menu of the business
           and the location of operation.

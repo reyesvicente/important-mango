@@ -37,6 +37,7 @@ export default class SectionContact extends React.Component {
                     <label className="form-label">Message</label>
                     <textarea name="message" className="form-textarea" rows="7" />
                   </p>
+                  <div data-netlify-recaptcha="true"></div>
                   <input type="hidden" name="form-name" value="contactForm" />
                   <p className="form-row form-submit">
                     <button type="submit" className="button">Send Message</button>

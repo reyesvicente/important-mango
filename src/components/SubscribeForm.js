@@ -11,7 +11,7 @@ export default class SubscribeForm extends React.Component {
               <div className="form-row">
                 <label>
                   <span className="screen-reader-text">Email address</span>
-                  <input className="subscribe-email" type="email" name="email" placeholder="Enter Email Address..."/>
+                  <input className="subscribe-email" type="email" name="email" placeholder="Enter Email Address..." required/>
                 </label>
               <div data-netlify-recaptcha="true"></div>
               </div>

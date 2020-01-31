@@ -27,15 +27,15 @@ export default class SectionContact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label className="form-label">Name</label>
-                    <input type="text" name="name" className="form-input"/>
+                    <input type="text" name="name" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label className="form-label">Email address</label>
-                    <input type="email" name="email" className="form-input"/>
+                    <input type="email" name="email" className="form-input" required/>
                   </p>
                   <p className="form-row">
                     <label className="form-label">Message</label>
-                    <textarea name="message" className="form-textarea" rows="7" />
+                    <textarea name="message" className="form-textarea" rows="7" required/>
                   </p>
                   <div data-netlify-recaptcha="true"></div>
                   <input type="hidden" name="form-name" value="contactForm" />

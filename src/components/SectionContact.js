@@ -20,7 +20,7 @@ export default class SectionContact extends React.Component {
               </div>
               <div className="block-content inner-medium">
                 {markdownify(_.get(section, 'content'))}
-                <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify="true" id="contact-form"
+                <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify-recaptcha="true" data-netlify="true" id="contact-form"
                   className="contact-form">
                   <p className="screen-reader-text">
                     <label>Don't fill this out if you're human: <input name="bot-field" /></label>

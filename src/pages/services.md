@@ -45,13 +45,6 @@ sections:
     title: Services offered
     type: section_features
   - bg: gray
-    section_id: contact
-    subtitle: >-
-      Have you decided yet what you need? Contact us so we can talk about your
-      needs are!
-    title: Get Quote
-    type: section_contact
-  - bg: gray
     content: >-
       ### [](https://nvrmndclothing.co)[Leagogo
       Law](https://leagogo.netlify.com)
@@ -79,6 +72,13 @@ sections:
     section_id: ''
     title: Recent Clients
     type: section_content
+  - bg: gray
+    section_id: contact
+    subtitle: >-
+      Have you decided yet what you need? Contact us so we can talk about your
+      needs are!
+    title: Get Quote
+    type: section_contact
 menus:
   main:
     title: Services

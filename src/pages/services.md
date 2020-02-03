@@ -28,42 +28,19 @@ sections:
           - label: Inquire Now
             url: '#contact'
         content: >-
-          As a Django Expert, we aim to make your web application exactly how
-          you want it. Our goal is to remove all the pains you have as a small &
-          medium business owner. What we can do to help you are:
-
-
-          * eCommerce Development
-
-          * Customer Relationship Management
-
-          * Custom Web Development
-
-
-          We will be beside you throughout this journey and guide you on what
-          has to be done. What are you waiting for? Contact us now!
-        image: /images/django-green-transparent.png
-        title: Django Web App Development
+          Our experienced web development team is ready to **help you plan,
+          build, market and grow your web project**.
+        image: /images/undraw-test.png
+        title: Custom Web Development
       - actions:
           - label: Inquire Now
             url: '#contact'
         content: >-
-          We aim to make your static web application blazing fast and secure.
-          Our goal is to develop your web application as you envisioned it. What
-          we can do to help you are:
-
-
-          * Landing Pages
-
-          * Event Pages
-
-          * Custom Static Website
-
-
-          We will be beside you throughout this journey and guide you on what
-          has to be done. What are you waiting for? Contact us now!
-        image: /images/undraw-landing.png
-        title: Static Website Development
+          Beautiful designs, powerful features, and the freedom to build
+          anything you want. WordPress is both free and priceless at the same
+          time.
+        image: /images/large-rectangle-b-strong.png
+        title: WordPress Web Development
     section_id: services
     title: Services offered
     type: section_features

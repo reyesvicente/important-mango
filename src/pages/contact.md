@@ -2,7 +2,7 @@
 title: Contact Us
 sections:
   - bg: gray
-    content: Keen to work with us? Tell us about your project.
+    content: '# Keen to work with us? Tell us about your project.'
     section_id: contact
     title: Get a Quote
     type: section_contact

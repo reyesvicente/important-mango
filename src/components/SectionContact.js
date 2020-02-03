@@ -25,17 +25,16 @@ export default class SectionContact extends React.Component {
                   <p className="screen-reader-text">
                     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                   </p>
-                  <h2
                   <p className="form-row">
-                    <label className="form-label">Your Name(required)</label>
-                    <input type="text" name="text" className="form-input" required/>
+                    <label className="form-label">Name</label>
+                    <input type="text" name="name" className="form-input" required/>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Your email address(required)</label>
-                    <input type="email" name="email" className="form-input" aria-describedby="emailHelp" required/>
+                    <label className="form-label">Email address</label>
+                    <input type="email" name="email" className="form-input" required/>
                   </p>
                   <p className="form-row">
-                    <label className="form-label">Message?</label>
+                    <label className="form-label">Message</label>
                     <textarea name="message" className="form-textarea" rows="7" required/>
                   </p>
                   <div data-netlify-recaptcha="true"></div>

@@ -2,9 +2,10 @@
 title: Contact Us
 sections:
   - bg: gray
-    content: '# Keen to work with us? Tell us about your project.'
+    content: ''
     section_id: contact
-    title: Get a Quote
+    subtitle: Keen to work with us? Tell us about your project.
+    title: Hi! Nice to meet you!
     type: section_contact
 menus:
   main:

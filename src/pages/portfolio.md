@@ -8,7 +8,7 @@ sections:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
-            url: 'https://nvrmnd-clothing-co.myshopify.com/'
+            url: 'https://nvrmndclothing.co'
         content: >-
           The client specifically requested for a drop shipping website in
           Shopify wherein he would ship products from Oberlo.

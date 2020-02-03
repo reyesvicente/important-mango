@@ -51,6 +51,34 @@ sections:
       needs are!
     title: Get Quote
     type: section_contact
+  - bg: gray
+    content: >-
+      ### [](https://nvrmndclothing.co)[Leagogo
+      Law](https://leagogo.netlify.com)
+
+
+      ### [NVRMND CLOTHING Co.](https://nvrmndclothing.co)
+
+
+      ### [Mike Bolen](https://mikebolen.com)
+
+
+      ### [Hey Social Inc.](https://www.instagram.com/hey.social/)
+
+
+      ### [Flower Head Event](https://flowerheadevents.com.au)
+
+
+      ### [Rave For Good](https://raveforgood.co)
+
+
+      ### [Herb Guard](https://herbguard.com)
+
+
+      [IdeaMakr](https://ideamakr.com)
+    section_id: ''
+    title: Recent Clients
+    type: section_content
 menus:
   main:
     title: Services

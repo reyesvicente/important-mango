@@ -51,7 +51,7 @@ sections:
     type: section_features
   - actions:
       - label: Inquire Now
-        url: /contact
+        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
     section_id: cta
     title: Are you ready to develop your website?
     type: section_cta

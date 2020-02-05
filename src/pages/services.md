@@ -6,7 +6,7 @@ sections:
     featureslist:
       - actions:
           - label: Inquire Now
-            url: '#contact'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
         content: >-
           As a Shopify Partner, we aim to make your brand visible worldwide. Our
           goal is to remove all the pains you have as a small & medium business
@@ -26,7 +26,7 @@ sections:
         title: Shopify Store Development
       - actions:
           - label: Inquire Now
-            url: '#contact'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
         content: >-
           Our experienced web development team is ready to **help you plan,
           build, market and grow your web project**.
@@ -34,7 +34,7 @@ sections:
         title: Custom Web Development
       - actions:
           - label: Inquire Now
-            url: '#contact'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
         content: >-
           Beautiful designs, powerful features, and the freedom to build
           anything you want. WordPress is both free and priceless at the same

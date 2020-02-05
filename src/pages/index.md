@@ -4,8 +4,8 @@ sections:
   - actions:
       - label: Learn More
         url: /services
-      - label: Get a Quote
-        url: /contact
+      - label: Inquire about project
+        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
     content: >-
       We're a small tech studio who helps small & medium business' with website
       development using Shopify & the Django Web Framework.
@@ -54,27 +54,14 @@ sections:
   - actions:
       - label: Inquire Now
         url: /contact
-      - label: Book a meeting
-        url: 'https://drift.me/highcenburg/meeting'
+      - label: Get Quote
+        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
     section_id: call-to-action
     subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
     title: Need a website made?
     type: section_cta
   - bg: gray
     featureslist:
-      - actions:
-          - label: Get Quote
-            url: /contact
-        content: >-
-          The client came to me to say that she wanted our local payment methods
-          integrated on to her store in Shopify.
-
-
-
-
-          Service Offered: Shopify Development
-        image: /images/bad.png
-        title: Bad Guyz R Us
       - actions:
           - label: Get Quote
             url: /contact
@@ -90,13 +77,33 @@ sections:
         title: NVRMND CLOTHING CO
       - actions:
           - label: Get Quote
-            url: /contact
-        content: |-
-          Client needed a website to handle their product sales online.
+            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+          - label: Visit
+            url: 'https://herbguard.com'
+        content: >-
+          The work we did here was to add the newsletter form using Klaviyo and
+          to add a Product Tabs via Meta Fields App. Another task was to add the
+          content given by the VA to the new products via Meta Field App.
+
 
           Service Offered: Shopify Development
-        image: /images/bev.png
-        title: Beverly Pups
+        image: >-
+          /images/Screenshot_2020-02-06 Smell Proof Bags, Jars Containers that
+          Keep Goods Fresh(1)-min.jpg
+        title: HerbGuard
+      - actions:
+          - label: Get Quote
+            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+          - label: Visit Site
+            url: 'https://mikebolen.com'
+        content: >-
+          Client needed to add features to his site and someone to maintain his
+          website.
+
+
+          Service Offered: WordPress Development
+        image: /images/Screenshot_2020-02-06 Mike Bolen Real Estate Investor-min.jpg
+        title: Mike Bolen
     section_id: portfolio
     subtitle: These are some of the web development projects we've worked on in the past
     title: Our Recent Works
@@ -170,6 +177,8 @@ sections:
     title: Our Process
     type: section_features
   - actions:
+      - label: Get Quote
+        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
       - label: Inquire Now
         url: /contact
     section_id: process-cta
@@ -191,10 +200,8 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Inquire Now
-        url: /contact
-      - label: Book a Meeting
-        url: 'https://drift.me/highcenburg/meeting'
+      - label: Get Quote
+        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
     section_id: cta-4
     title: Let's start developing your website?
     type: section_cta

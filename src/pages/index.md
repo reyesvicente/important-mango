@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /services
       - label: Inquire about project
-        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+        url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
     content: >-
       We're a small tech studio who helps small & medium business' with website
       development using Shopify & the Django Web Framework.
@@ -17,7 +17,7 @@ sections:
     featureslist:
       - actions:
           - label: Inquire
-            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -28,7 +28,7 @@ sections:
         title: Shopify Development
       - actions:
           - label: Inquire
-            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -38,7 +38,7 @@ sections:
         title: Custom Web Development
       - actions:
           - label: Inquire
-            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -55,7 +55,7 @@ sections:
       - label: Inquire Now
         url: /contact
       - label: Get Quote
-        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+        url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
     section_id: call-to-action
     subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
     title: Need a website made?
@@ -64,7 +64,7 @@ sections:
     featureslist:
       - actions:
           - label: Get Quote
-            url: /contact
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Visite site
             url: 'https://nvrmndclothing.co'
         content: >-
@@ -79,7 +79,7 @@ sections:
         title: NVRMND CLOTHING CO
       - actions:
           - label: Get Quote
-            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Visit site
             url: 'https://herbguard.com'
         content: >-
@@ -95,7 +95,7 @@ sections:
         title: HerbGuard
       - actions:
           - label: Get Quote
-            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
           - label: Visit site
             url: 'https://mikebolen.com'
         content: >-
@@ -180,7 +180,7 @@ sections:
     type: section_features
   - actions:
       - label: Get Quote
-        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+        url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
       - label: Inquire Now
         url: /contact
     section_id: process-cta
@@ -203,7 +203,7 @@ sections:
     type: section_reviews
   - actions:
       - label: Get Quote
-        url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
+        url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
     section_id: cta-4
     title: Let's start developing your website?
     type: section_cta

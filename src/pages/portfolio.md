@@ -76,20 +76,6 @@ sections:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
-            url: 'https://ideamakr.com'
-        content: >-
-          The client needed his scaffold made for his web development agency.
-          The project was made using the Django Web Framework and was finished
-          in a month.
-
-
-          Service Offered: Django Web Application Development
-        image: /images/idea-min.png
-        title: IdeaMakr
-      - actions:
-          - label: Book a Meeting
-            url: 'https://drift.me/highcenburg/meeting'
-          - label: Visit
             url: 'https://soulheistmusic.icu'
         content: >-
           The artist just released new music and he needed a landing page to use
@@ -99,19 +85,6 @@ sections:
           Service Offered: Static Website Development
         image: /images/sh.png
         title: Soul Heist Music
-      - actions:
-          - label: Book a Meeting
-            url: 'https://drift.me/highcenburg/meeting'
-          - label: Visit
-            url: 'https://enzobbs420.netlify.com'
-        content: >-
-          A Brochure-Type Web Application that shows the Menu of the business
-          and the location of operation.
-
-
-          Service offered: Static Website Development
-        image: /images/bbss.png
-        title: Bigboys Shawarma
     section_id: portfolio
     title: Portfolio
     type: section_features

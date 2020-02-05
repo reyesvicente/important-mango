@@ -8,8 +8,8 @@
     "menu": {
       "actions": [
         {
-          "label": "Book A Meeting",
-          "url": "https://drift.me/highcenburg/meeting"
+          "label": "Hire us!",
+          "url": "https://vicentereyes713727.typeform.com/to/fyLzyv"
         }
       ]
     }
@@ -23,18 +23,7 @@
     "logo_img": "/images/logo.png",
     "has_social": true,
     "content": "&copy; ICVN Tech Studio. All rights reserved.",
-    "links": [
-      {
-        "text": "Illustration by Ouch.pics",
-        "url": "https://icons8.com",
-        "new_window": true
-      },
-      {
-        "text": " & unDraw",
-        "url": "https://undraw.co/",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "nav_title": "Navigation",
     "has_nav": true
   }

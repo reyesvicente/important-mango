@@ -16,8 +16,8 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Get Quote
-            url: /contact
+          - label: Inquire
+            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -27,8 +27,8 @@ sections:
         image: /images/shopify-partner.png
         title: Shopify Development
       - actions:
-          - label: Get Quote
-            url: /contact
+          - label: Inquire
+            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -37,8 +37,8 @@ sections:
         image: /images/undraw-test.png
         title: Custom Web Development
       - actions:
-          - label: Get Quote
-            url: /contact
+          - label: Inquire
+            url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
         content: >-
@@ -65,6 +65,8 @@ sections:
       - actions:
           - label: Get Quote
             url: /contact
+          - label: Visite site
+            url: 'https://nvrmndclothing.co'
         content: >-
           The client specifically requested for a drop shipping website in
           Shopify wherein he would ship products from Oberlo.
@@ -78,7 +80,7 @@ sections:
       - actions:
           - label: Get Quote
             url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
-          - label: Visit
+          - label: Visit site
             url: 'https://herbguard.com'
         content: >-
           The work we did here was to add the newsletter form using Klaviyo and
@@ -94,7 +96,7 @@ sections:
       - actions:
           - label: Get Quote
             url: 'https://vicentereyes713727.typeform.com/to/fyLzyv'
-          - label: Visit Site
+          - label: Visit site
             url: 'https://mikebolen.com'
         content: >-
           Client needed to add features to his site and someone to maintain his

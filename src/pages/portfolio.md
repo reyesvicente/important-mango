@@ -32,6 +32,22 @@ sections:
         image: /images/flower-min.png
         title: Flower Head Events
       - actions:
+          - label: Book a meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://ideamaker.agency/'
+        content: >-
+          The client needed his scaffold made for his web development agency.
+          The project was made using the Django Web Framework and was finished
+          in a month.
+
+
+          Service Offered: Django Web Application Development
+        image: >-
+          /images/Screenshot_2020-02-07 Idea Maker Orange County Web and Mobile
+          App Development.png
+        title: IdeaMakr
+      - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit

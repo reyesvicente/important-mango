@@ -101,6 +101,21 @@ sections:
           Service Offered: Static Website Development
         image: /images/sh.png
         title: Soul Heist Music
+      - actions:
+          - label: Book a meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://laa-law.com.ph'
+        content: >-
+          The client put up his own Law Firm and needed a landing page with a
+          form.
+
+
+
+
+          Service Offered: Static Web Development
+        image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
+        title: Leagogo Law Office
     section_id: portfolio
     title: Portfolio
     type: section_features

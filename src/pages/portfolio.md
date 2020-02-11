@@ -23,6 +23,19 @@ sections:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
+            url: 'https://soulheistmusic.icu'
+        content: >-
+          The artist just released new music and he needed a landing page to use
+          for his promotion. 
+
+
+          Service Offered: Static Website Development
+        image: /images/sh.png
+        title: Soul Heist Music
+      - actions:
+          - label: Book a Meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
             url: 'https://nvrmndclothing.co'
         content: >-
           The client specifically requested for a drop shipping website in
@@ -103,19 +116,6 @@ sections:
           Service Offered: Django Web Application Development
         image: /images/tel.png
         title: Hotel Website
-      - actions:
-          - label: Book a Meeting
-            url: 'https://drift.me/highcenburg/meeting'
-          - label: Visit
-            url: 'https://soulheistmusic.icu'
-        content: >-
-          The artist just released new music and he needed a landing page to use
-          for his promotion. 
-
-
-          Service Offered: Static Website Development
-        image: /images/sh.png
-        title: Soul Heist Music
     section_id: portfolio
     title: Portfolio
     type: section_features

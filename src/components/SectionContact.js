@@ -20,7 +20,7 @@ export default class SectionContact extends React.Component {
               </div>
               <div className="block-content inner-medium">
                 {markdownify(_.get(section, 'content'))}
-                <form name="contactForm" method="POST" netlifyHoneypot="bot-field" data-netlify-recaptcha="true" data-netlify="true" id="contact-form"
+                <form name="contactForm" method="POST" netlify-honeypot="bot-field" data-netlify="true" id="contact-form"
                   className="contact-form">
                   <p className="screen-reader-text">
                     <label>Don't fill this out if you're human: <input name="bot-field" /></label>
@@ -35,7 +35,7 @@ export default class SectionContact extends React.Component {
                   </p>
                   <p className="form-row">
                     <label className="form-label">Message</label>
-                    <textarea name="message" className="form-textarea" rows="7" required/>
+                    <textarea name="message" className="form-textarea" rows="3" required/>
                   </p>
                   <div data-netlify-recaptcha="true"></div>
                   <input type="hidden" name="form-name" value="contactForm" />

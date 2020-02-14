@@ -7,8 +7,8 @@ sections:
       - label: Inquire about project
         url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
     content: >-
-      We're a small tech studio who helps small & medium business' with website
-      development using Shopify & the Django Web Framework.
+      We're a small tech studio who helps small & medium business' develop their
+      website using blazing fast technology.
     image: /images/unrdaw-web-dev.png
     section_id: hero
     title: ICVN Tech Studio

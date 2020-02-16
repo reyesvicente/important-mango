@@ -35,6 +35,8 @@ sections:
       - actions:
           - label: Inquire Now
             url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
+          - label: Visit wordpress
+            url: 'https://icvntechstudio.co/services?aff=51308'
         content: >-
           Beautiful designs, powerful features, and the freedom to build
           anything you want. WordPress is both free and priceless at the same

@@ -131,6 +131,19 @@ sections:
           Service Offered: Django Web Application Development
         image: /images/tel.png
         title: Hotel Website
+      - actions:
+          - label: Book a meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://bad-guyz-r-us.com/'
+        content: >-
+          The client needed an expert do set up her online shop using Shopify,
+          and to customize the theme to her preference.
+
+
+          Service Offered: Shopify Development
+        image: /images/Screenshot_2020-02-17 Bad Guyz R Us.png
+        title: Bad Guys R Us
     section_id: portfolio
     title: Portfolio
     type: section_features

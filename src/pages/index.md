@@ -190,13 +190,21 @@ sections:
     reviews:
       - author: 'Ben, Flower Head Events '
         content: >-
-          He was very patient in dealing with my issue. Will definitely hire him
-          again!
+          "He was very patient in dealing with my issue. Will definitely hire
+          him again!"
       - author: 'Vicente, NVRMND CLOTHING CO'
         content: >-
-          He made sure we got everything needed before we launch our site. We
+          "He made sure we got everything needed before we launch our site. We
           saw that the process was tedious and he handled every process like a
-          true expert!
+          true expert!"
+      - author: 'Mapi Rebadomia, Bad Guyz R Us'
+        content: >-
+          "ICVN Tech Studio has helped me with my store. He has been very
+          helpful for someone like me who is not techy.  Great on following
+          instructions and very responsive. Open to tweaks on the pages and also
+          adjusts accordingly with the overall aesthetic of the design of the
+          page.  Definitely looking forward to long partnership for future
+          stores!  Thanks again!"
     section_id: reviews
     subtitle: These are what our clients have to say
     title: Testimonials

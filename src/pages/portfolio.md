@@ -47,7 +47,7 @@ sections:
         image: >-
           /images/Screenshot_2020-02-07 Idea Maker Orange County Web and Mobile
           App Development.png
-        title: IdeaMakr
+        title: Idea Maker
       - title: Mike Bolen
         actions:
           - label: Book a meeting

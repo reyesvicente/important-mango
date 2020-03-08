@@ -20,18 +20,50 @@ sections:
         image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
         title: Leagogo Law Office
       - actions:
-          - label: Book a Meeting
+          - label: Book a meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
-            url: 'https://soulheistmusic.icu'
+            url: 'https://bad-guyz-r-us.com/'
         content: >-
-          The artist just released new music and he needed a landing page to use
-          for his promotion. 
+          The client needed an expert do set up her online shop using Shopify,
+          and to customize the theme to her preference.
 
 
-          Service Offered: Static Website Development
-        image: /images/sh.png
-        title: Soul Heist Music
+          Service Offered: Shopify Development
+        image: /images/Screenshot_2020-02-17 Bad Guyz R Us.png
+        title: Bad Guys R Us
+      - actions:
+          - label: Book a meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://ideamaker.agency/'
+        content: >-
+          The client needed his scaffold made for his web development agency.
+          The project was made using the Django Web Framework and was finished
+          in a month.
+
+
+          Service Offered: Django Web Application Development
+        image: >-
+          /images/Screenshot_2020-02-07 Idea Maker Orange County Web and Mobile
+          App Development.png
+        title: IdeaMakr
+      - title: Mike Bolen
+        actions:
+          - label: Book a meeting
+            url: 'https://drift.me/highcenburg/meeting'
+          - label: Visit
+            url: 'https://mikebolen.com'
+        image: /images/Screenshot_2020-02-06 Mike Bolen Real Estate Investor-min.jpg
+        content: >-
+          The client needed new features for his personal blog. As a
+          multi-millionaire real estate investor, he needed his site as crisp as
+          he can.
+
+
+
+
+          Service Offered: Website Maintenance & Update
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
@@ -75,21 +107,18 @@ sections:
         image: /images/flower-min.png
         title: Flower Head Events
       - actions:
-          - label: Book a meeting
+          - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
-            url: 'https://ideamaker.agency/'
+            url: 'https://soulheistmusic.icu'
         content: >-
-          The client needed his scaffold made for his web development agency.
-          The project was made using the Django Web Framework and was finished
-          in a month.
+          The artist just released new music and he needed a landing page to use
+          for his promotion. 
 
 
-          Service Offered: Django Web Application Development
-        image: >-
-          /images/Screenshot_2020-02-07 Idea Maker Orange County Web and Mobile
-          App Development.png
-        title: IdeaMakr
+          Service Offered: Static Website Development
+        image: /images/sh.png
+        title: Soul Heist Music
       - actions:
           - label: Book a Meeting
             url: 'https://drift.me/highcenburg/meeting'
@@ -131,19 +160,6 @@ sections:
           Service Offered: Django Web Application Development
         image: /images/tel.png
         title: Hotel Website
-      - actions:
-          - label: Book a meeting
-            url: 'https://drift.me/highcenburg/meeting'
-          - label: Visit
-            url: 'https://bad-guyz-r-us.com/'
-        content: >-
-          The client needed an expert do set up her online shop using Shopify,
-          and to customize the theme to her preference.
-
-
-          Service Offered: Shopify Development
-        image: /images/Screenshot_2020-02-17 Bad Guyz R Us.png
-        title: Bad Guys R Us
     section_id: portfolio
     title: Portfolio
     type: section_features
@@ -156,4 +172,3 @@ menus:
     weight: 5
 template: landing
 ---
-

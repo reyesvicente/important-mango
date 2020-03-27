@@ -23,19 +23,6 @@ sections:
           - label: Book a meeting
             url: 'https://drift.me/highcenburg/meeting'
           - label: Visit
-            url: 'https://bad-guyz-r-us.com/'
-        content: >-
-          The client needed an expert do set up her online shop using Shopify,
-          and to customize the theme to her preference.
-
-
-          Service Offered: Shopify Development
-        image: /images/Screenshot_2020-02-17 Bad Guyz R Us.png
-        title: Bad Guys R Us
-      - actions:
-          - label: Book a meeting
-            url: 'https://drift.me/highcenburg/meeting'
-          - label: Visit
             url: 'https://ideamaker.agency/'
         content: >-
           The client needed his scaffold made for his web development agency.

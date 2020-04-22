@@ -92,21 +92,6 @@ sections:
 
           Service Offered: Website Maintenance & Update
       - actions:
-          - label: Book a meeting
-            url: https://drift.me/highcenburg/meeting
-          - label: Visit
-            url: https://ancient-bayou-48346.herokuapp.com/
-        content: >-
-          The Non-profit organization from India needed a new system for their
-          new program.
-
-
-
-
-          Service offered: Custom Web Development
-        image: /images/pr.png
-        title: Planet Read
-      - actions:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting
           - label: Visit

@@ -15,7 +15,7 @@ sections:
 
 
           Service Offered: Shopify Development
-        image: /images/nvm.png
+        image: /images/nvrmnd-clothing-co-.jpg
         title: NVRMND CLOTHING CO
       - actions:
           - label: Book a Meeting

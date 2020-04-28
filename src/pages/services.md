@@ -46,7 +46,7 @@ sections:
     content: |-
       ### [Philippines COVID-19 Tracker](https://cvt.vgreyes.com)
 
-      [](https://nvrmndclothing.co)[Leagogo Law](https://leagogo.netlify.com)
+      ### [](https://nvrmndclothing.co)[Leagogo Law](https://laa-law.com.ph)
 
       ### [NVRMND CLOTHING Co.](https://nvrmndclothing.co)
 

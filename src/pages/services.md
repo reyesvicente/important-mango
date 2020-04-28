@@ -6,7 +6,7 @@ sections:
     featureslist:
       - actions:
           - label: Inquire Now
-            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
+            url: https://icvntechstudio.typeform.com/to/fyLzyv
         content: >-
           As a Shopify Partner, we aim to make your brand visible worldwide. Our
           goal is to remove all the pains you have as a small & medium business
@@ -20,65 +20,52 @@ sections:
           * Providing marketing and/or business expertise.
 
 
-          We will be beside you throughout this journey and guide you on what
-          has to be done. What are you waiting for? Contact us now!
+          We will be beside you throughout this journey and guide you on what has to be done. What are you waiting for? Contact us now!
         image: /images/shopify-partner.png
         title: Shopify Store Development
       - actions:
           - label: Inquire Now
-            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
-        content: >-
-          Our experienced web development team is ready to **help you plan,
+            url: https://icvntechstudio.typeform.com/to/fyLzyv
+        content: Our experienced web development team is ready to **help you plan,
           build, market and grow your web project**.
         image: /images/undraw-test.png
         title: Custom Web Development
       - actions:
           - label: Inquire Now
-            url: 'https://icvntechstudio.typeform.com/to/fyLzyv'
+            url: https://icvntechstudio.typeform.com/to/fyLzyv
           - label: Visit wordpress
-            url: 'https://icvntechstudio.co/services?aff=51308'
-        content: >-
-          Beautiful designs, powerful features, and the freedom to build
-          anything you want. WordPress is both free and priceless at the same
-          time.
+            url: https://icvntechstudio.co/services?aff=51308
+        content: Beautiful designs, powerful features, and the freedom to build anything
+          you want. WordPress is both free and priceless at the same time.
         image: /images/large-rectangle-b-strong.png
         title: WordPress Web Development
     section_id: services
     title: Services offered
     type: section_features
   - bg: gray
-    content: >-
-      ### [](https://nvrmndclothing.co)[Leagogo
-      Law](https://leagogo.netlify.com)
+    content: |-
+      ### [Philippines COVID-19 Tracker](https://cvt.vgreyes.com)
 
+      [](https://nvrmndclothing.co)[Leagogo Law](https://leagogo.netlify.com)
 
       ### [NVRMND CLOTHING Co.](https://nvrmndclothing.co)
 
-
       ### [Mike Bolen](https://mikebolen.com)
-
 
       ### [Hey Social Inc.](https://www.instagram.com/hey.social/)
 
-
       ### [Flower Head Event](https://flowerheadevents.com.au)
-
 
       ### [Rave For Good](https://raveforgood.co)
 
-
       ### [Herb Guard](https://herbguard.com)
-
-
-      [IdeaMakr](https://ideamakr.com)
-    section_id: ''
+    section_id: ""
     title: Recent Clients
     type: section_content
   - bg: gray
     section_id: contact
-    subtitle: >-
-      Have you decided yet what you need? Contact us so we can talk about your
-      needs are!
+    subtitle: Have you decided yet what you need? Contact us so we can talk about
+      your needs are!
     title: Get Quote
     type: section_contact
 menus:
@@ -90,4 +77,3 @@ menus:
     weight: 3
 template: landing
 ---
-

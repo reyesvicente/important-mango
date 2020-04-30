@@ -4,24 +4,6 @@ sections:
   - bg: gray
     content: All our works since our early days in web development
     featureslist:
-      - title: Philippines COVID-18 Tracker
-        content: >-
-          As a [Freelance Django/Shopify Developer](https://icvntechstudio.co)
-          and [Multimedia Artist](https://www.behance.net/makoythelonebeast), we
-          couldn't help but think to add another side-project on our portfolio
-          of projects which made us decide to develop this website for everyone.
-
-
-          This site provides updated real-time data on coronavirus cases from the worldometers page and other important websites, provided by the most reputable organizations and statistical offices in the world. You can check the API [here](https://covid19-docs.chrismichael.now.sh/).
-
-
-          The site uses [Django](http://djangoproject.org) as the backend technology, [Zurb Foundation](https://get.foundation/) as the frontend technology and web hosting is sponsored by [Digital Ocean](http://bit.ly/highcenbugtv).
-        image: /images/covid-19-tracker-ph-vicente-g-reyes.png
-        actions:
-          - url: https://drift.me/highcenburg/meeting
-            label: Book A Meeting
-          - label: Visit Site
-            url: https://cvt.vgreyes.com
       - actions:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting

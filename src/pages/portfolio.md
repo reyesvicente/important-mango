@@ -45,6 +45,17 @@ sections:
           Service Offered: Shopify Development
         image: /images/herbguard.png
         title: HerbGuard
+      - title: Webflow Sample Project
+        content: "[Webflow, Inc.](https://bit.ly/3bag5fO) is an American company, based
+          in San Francisco, that provides software as a service for website
+          building and hosting. Their online visual editor platform allows users
+          to design, build, and launch websites."
+        image: /images/screen-shot-2020-05-03-at-7.06.41-am.png
+        actions:
+          - label: Book a meeting
+            url: https://drift.me/highcenburg/meeting
+          - label: Visit
+            url: https://kinamay.webflow.io
       - actions:
           - label: Book a meeting
             url: https://drift.me/highcenburg/meeting

@@ -36,12 +36,14 @@ sections:
       - actions:
           - label: Inquire
             url: https://icvntechstudio.typeform.com/to/fyLzyv
-          - label: Go to wordpress website
-            url: https://icvntechstudio.co/services?aff=51308
-        content: Beautiful designs, powerful features, and the freedom to build anything
-          you want. WordPress is both free and priceless at the same time.
-        image: /images/large-rectangle-b-strong.png
-        title: WordPress Web Development
+          - label: Go to Webflow website
+            url: https://bit.ly/3bag5fO
+        content: Webflow, Inc. is an American company, based in San Francisco, that
+          provides software as a service for website building and hosting. Their
+          online visual editor platform allows users to design, build, and
+          launch websites.
+        image: /images/5d3e2e20cb7dfd8475f5e989_webflow-logo-black.svg
+        title: Webflow Web Development
     section_id: services
     subtitle: These are the services we are currently delivering to our clients
     title: Services Offered

@@ -4,6 +4,20 @@ sections:
   - bg: gray
     content: All our works since our early days in web development
     featureslist:
+      - title: Beginners Mind Montessori House
+        content: >-
+          As required by the Department of Education, the client needed a
+          website for their school thus ICVN Tech Studio was contacted to
+          develop their website.
+
+
+          Service Offered: Webflow Development
+        image: /images/screenshot_2020-06-01-home-beginners-mind-montessori-house.png
+        actions:
+          - label: Book a Meeting
+            url: https://drift.me/highcenburg/meeting
+          - label: Visit
+            url: https://www.beginnersmindmontessori.com/
       - actions:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting

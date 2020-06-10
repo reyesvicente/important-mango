@@ -46,7 +46,7 @@ sections:
     type: section_features
   - bg: gray
     content: |-
-      ### [Philippines COVID-19 Tracker](https://cvt.vgreyes.com)
+      ### [Beginners Mind Montessori House](https://beginnersmindmontessori.com)
 
       ### [](https://nvrmndclothing.co)[Leagogo Law](https://laa-law.com.ph)
 
@@ -57,8 +57,6 @@ sections:
       ### [Hey Social Inc.](https://www.instagram.com/hey.social/)
 
       ### [Flower Head Event](https://flowerheadevents.com.au)
-
-      ### [Rave For Good](https://raveforgood.co)
 
       ### [Herb Guard](https://herbguard.com)
     section_id: ""

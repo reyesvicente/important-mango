@@ -118,19 +118,6 @@ sections:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting
           - label: Visit
-            url: https://raveforgood.co
-        content: >-
-          The client needed a landing page for his affiliates which was done
-          using WordPress.
-
-
-          Service Offered: Static Site Development
-        image: /images/rave-min.png
-        title: Rave For Good
-      - actions:
-          - label: Book a Meeting
-            url: https://drift.me/highcenburg/meeting
-          - label: Visit
             url: https://icvn-hotel.herokuapp.com
         content: >-
           A Fictitious Real Estate/Hotel Website developed with

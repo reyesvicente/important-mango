@@ -48,7 +48,7 @@ sections:
     content: |-
       ### [Beginners Mind Montessori House](https://beginnersmindmontessori.com)
 
-      ### [](https://nvrmndclothing.co)[Leagogo Law](https://laa-law.com.ph)
+      ### [Leagogo Law](https://laa-law.com.ph)
 
       ### [NVRMND CLOTHING Co.](https://nvrmndclothing.co)
 

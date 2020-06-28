@@ -4,8 +4,8 @@ sections:
   - actions:
       - label: Learn More
         url: /services
-      - label: Inquire about project
-        url: https://icvntechstudio.typeform.com/to/fyLzyv
+      - label: Talk To Us
+        url: https://forms.gle/eAyL1dzPRuGCV7eN8
     content: We're a small tech studio who helps small & medium business' develop
       their website using blazing fast & secure technology.
     image: /images/unrdaw-web-dev.png
@@ -15,8 +15,8 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Inquire
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting
         content: As a Shopify Partner, we aim to make your brand visible worldwide. Our
@@ -25,8 +25,8 @@ sections:
         image: /images/shopify-partner.png
         title: Shopify Development
       - actions:
-          - label: Inquire
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting
         content: Our experienced web development team is ready to **help you plan,
@@ -34,8 +34,8 @@ sections:
         image: /images/undraw-test.png
         title: Custom Web Development
       - actions:
-          - label: Inquire
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Go to Webflow website
             url: https://bit.ly/3bag5fO
         content: Webflow, Inc. is an American company, based in San Francisco, that
@@ -51,8 +51,8 @@ sections:
   - actions:
       - label: Inquire Now
         url: /contact
-      - label: Get Quote
-        url: https://icvntechstudio.typeform.com/to/fyLzyv
+      - label: Talk To Us
+        url: https://forms.gle/eAyL1dzPRuGCV7eN8
     section_id: call-to-action
     subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
     title: Need a website made?
@@ -71,13 +71,13 @@ sections:
           Service Offered: Webflow Development
         image: /images/screenshot_2020-06-01-home-beginners-mind-montessori-house.png
         actions:
-          - label: Get Quote
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visit site
             url: https://www.beginnersmindmontessori.com/
       - actions:
-          - label: Get Quote
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visite site
             url: https://nvrmndclothing.co
         content: >-
@@ -91,8 +91,8 @@ sections:
         image: /images/nvm.png
         title: NVRMND CLOTHING CO
       - actions:
-          - label: Get Quote
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visit site
             url: https://herbguard.com
         content: >-
@@ -170,8 +170,8 @@ sections:
     title: Our Process
     type: section_features
   - actions:
-      - label: Get Quote
-        url: https://icvntechstudio.typeform.com/to/fyLzyv
+      - label: Talk To Us
+        url: https://forms.gle/eAyL1dzPRuGCV7eN8
       - label: Inquire Now
         url: /contact
     section_id: process-cta
@@ -198,8 +198,8 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Get Quote
-        url: https://icvntechstudio.typeform.com/to/fyLzyv
+      - label: Talk To Us
+        url: https://forms.gle/eAyL1dzPRuGCV7eN8
     section_id: cta-4
     title: Let's start developing your website?
     type: section_cta

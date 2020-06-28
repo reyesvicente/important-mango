@@ -5,8 +5,8 @@ sections:
     content: These are the services we are comfortable offering to our clients
     featureslist:
       - actions:
-          - label: Inquire Now
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
         content: >-
           As a Shopify Partner, we aim to make your brand visible worldwide. Our
           goal is to remove all the pains you have as a small & medium business
@@ -24,15 +24,15 @@ sections:
         image: /images/shopify-partner.png
         title: Shopify Store Development
       - actions:
-          - label: Inquire Now
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
         content: Our experienced web development team is ready to **help you plan,
           build, market and grow your web project**.
         image: /images/undraw-test.png
         title: Custom Web Development
       - actions:
-          - label: Inquire Now
-            url: https://icvntechstudio.typeform.com/to/fyLzyv
+          - label: Talk To Us
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visit Webflow
             url: https://bit.ly/3boZDaS
         content: Webflow, Inc. is an American company, based in San Francisco, that

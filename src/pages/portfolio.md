@@ -32,6 +32,21 @@ sections:
         image: /images/nvrmnd-clothing-co-.jpg
         title: NVRMND CLOTHING CO
       - actions:
+          - label: Book a meeting
+            url: https://drift.me/highcenburg/meeting
+          - label: Visit
+            url: https://laa-law.com.ph
+        content: >-
+          The client put up his own Law Firm and needed a landing page with a
+          form.
+
+
+
+
+          Service Offered: Static Web Development
+        image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
+        title: Leagogo Law Office
+      - actions:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting
           - label: Visit
@@ -70,21 +85,6 @@ sections:
             url: https://drift.me/highcenburg/meeting
           - label: Visit
             url: https://kinamay.webflow.io
-      - actions:
-          - label: Book a meeting
-            url: https://drift.me/highcenburg/meeting
-          - label: Visit
-            url: https://laa-law.com.ph
-        content: >-
-          The client put up his own Law Firm and needed a landing page with a
-          form.
-
-
-
-
-          Service Offered: Static Web Development
-        image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
-        title: Leagogo Law Office
       - title: Mike Bolen
         actions:
           - label: Book a meeting
@@ -114,20 +114,6 @@ sections:
           Service Offered: Static Website Development
         image: /images/sh.png
         title: Soul Heist Music
-      - actions:
-          - label: Book a Meeting
-            url: https://drift.me/highcenburg/meeting
-          - label: Visit
-            url: https://icvn-hotel.herokuapp.com
-        content: >-
-          A Fictitious Real Estate/Hotel Website developed with
-          cookiecutter-django to showcase the developers' skill in the Django
-          Web Framework.
-
-
-          Service Offered: Django Web Application Development
-        image: /images/tel.png
-        title: Hotel Website
     section_id: portfolio
     title: Portfolio
     type: section_features

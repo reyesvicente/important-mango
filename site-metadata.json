@@ -3,7 +3,7 @@
   "palette": "blue",
   "header": {
     "title": "ICVN Tech Studio",
-    "logo_img": "/images/logo.png",
+    "logo_img": "/images/default.png",
     "has_nav": true,
     "menu": {
       "actions": [

@@ -3,171 +3,89 @@ title: Privacy Policy
 sections:
   - bg: gray
     content: >-
-      This Privacy Policy describes how your personal information is collected,
-      used, and shared when you visit or make a purchase from icvcntechstudio.co
-      (the “Site”).
+      ## Web Site Terms and Conditions of Use
 
 
-      Personal information we collect
+      ### 1. Terms
 
 
-      When you visit the Site, we automatically collect certain information
-      about your device, including information about your web browser, IP
-      address, time zone, and some of the cookies that are installed on your
-      device. Additionally, as you browse the Site, we collect information about
-      the individual web pages or products that you view, what websites or
-      search terms referred you to the Site, and information about how you
-      interact with the Site. We refer to this automatically-collected
-      information as “Device Information”.
+      By accessing this web site, you are agreeing to be bound by these web site Terms and Conditions of Use, applicable laws and regulations and their compliance. If you disagree with any of the stated terms and conditions, you are prohibited from using or accessing this site. The materials contained in this site are secured by relevant copyright and trade mark law.
 
 
-      We collect Device Information using the following technologies:
+      ### 2. Use License
 
 
-      \- “Cookies” are data files that are placed on your device or computer and
-      often include an anonymous unique identifier. For more information about
-      cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+      1. Permission is allowed to temporarily download one duplicate of the materials (data or programming) on ICVN Tech Studio's site for individual and non-business use only. This is the just a permit of license and not an exchange of title, and under this permit you may not:
 
+         1. modify or copy the materials;
+         2. use the materials for any commercial use , or for any public presentation (business or non-business);
+         3. attempt to decompile or rebuild any product or material contained on ICVN Tech Studio's site;
+         4. remove any copyright or other restrictive documentations from the materials; or
+         5. transfer the materials to someone else or even "mirror" the materials on other server.
+      2. This permit might consequently be terminated if you disregard any of these confinements and may be ended by ICVN Tech Studio whenever deemed. After permit termination or when your viewing permit is terminated, you must destroy any downloaded materials in your ownership whether in electronic or printed form.
 
-      \- “Log files” track actions occurring on the Site, and collect data
-      including your IP address, browser type, Internet service provider,
-      referring/exit pages, and date/time stamps.
 
+      ### 3. Disclaimer
 
-      \- “Web beacons”, “tags”, and “pixels” are electronic files used to record
-      information about how you browse the Site.
 
+      1. The materials on ICVN Tech Studio's site are given "as is". ICVN Tech Studio makes no guarantees, communicated or suggested, and thus renounces and nullifies every single other warranties, including without impediment, inferred guarantees or states of merchantability, fitness for a specific reason, or non-encroachment of licensed property or other infringement of rights. Further, ICVN Tech Studio does not warrant or make any representations concerning the precision, likely results, or unwavering quality of the utilization of the materials on its Internet site or generally identifying with such materials or on any destinations connected to this website.
 
-      Additionally when you make a purchase or attempt to make a purchase
-      through the Site, we collect certain information from you, including your
-      name, billing address, shipping address, payment information (including
-      credit card numbers), email address, and phone number. We refer to this
-      information as “Order Information”.
 
+      ### 4. Constraints
 
-      When we talk about “Personal Information” in this Privacy Policy, we are
-      talking both about Device Information and Order Information.
 
+      In no occasion should ICVN Tech Studio or its suppliers subject for any harms (counting, without constraint, harms for loss of information or benefit, or because of business interference,) emerging out of the utilization or powerlessness to utilize the materials on ICVN Tech Studio's Internet webpage, regardless of the possibility that ICVN Tech Studio or a ICVN Tech Studio approved agent has been told orally or in written of the likelihood of such harm. Since a few purviews don't permit constraints on inferred guarantees, or impediments of obligation for weighty or coincidental harms, these confinements may not make a difference to you.
 
-      How do we use your personal information?
 
+      ### 5. Amendments and Errata
 
-      We use the Order Information that we collect generally to fulfill any
-      orders placed through the Site (including processing your payment
-      information, arranging for shipping, and providing you with invoices
-      and/or order confirmations). Additionally, we use this Order Information
-      to:
 
+      The materials showing up on ICVN Tech Studio's site could incorporate typographical, or photographic mistakes. ICVN Tech Studio does not warrant that any of the materials on its site are exact, finished, or current. ICVN Tech Studio may roll out improvements to the materials contained on its site whenever without notification. ICVN Tech Studio does not, then again, make any dedication to update the materials.
 
-      \- Communicate with you;
 
+      ### 6. Links
 
-      \- Screen our orders for potential risk or fraud; and
 
+      ICVN Tech Studio has not checked on the majority of the websites or links connected to its website and is not in charge of the substance of any such connected webpage. The incorporation of any connection does not infer support by ICVN Tech Studio of the site. Utilization of any such connected site is at the user's own risk.
 
-      \- When in line with the preferences you have shared with us, provide you
-      with information or advertising relating to our products or services.
 
+      ### 7. Site Terms of Use Modifications
 
-      We use the Device Information that we collect to help us screen for
-      potential risk and fraud (in particular, your IP address), and more
-      generally to improve and optimize our Site (for example, by generating
-      analytics about how our customers browse and interact with the Site, and
-      to assess the success of our marketing and advertising campaigns).
 
+      ICVN Tech Studio may update these terms of utilization for its website whenever without notification. By utilizing this site you are consenting to be bound by the then current form of these Terms and Conditions of Use.
 
-      Sharing you personal Information
 
+      ### 8. Governing Law
 
-      We share your Personal Information with third parties to help us use your
-      Personal Information, as described above. We also use Google Analytics to
-      help us understand how our customers use the Site -- you can read more
-      about how Google uses your Personal Information here:
-      https://www.google.com/intl/en/policies/privacy/. You can also opt-out of
-      Google Analytics here: https://tools.google.com/dlpage/gaoptout.
 
+      Any case identifying with ICVN Tech Studio's site should be administered by the laws of the country of Philippines ICVN Tech Studio State without respect to its contention of law provisions.
 
-      Finally, we may also share your Personal Information to comply with
-      applicable laws and regulations, to respond to a subpoena, search warrant
-      or other lawful request for information we receive, or to otherwise
-      protect our rights.
 
+      General Terms and Conditions applicable to Use of a Web Site.
 
-      Behavioural advertising
 
+      ## Privacy Policy
 
-      As described above, we use your Personal Information to provide you with
-      targeted advertisements or marketing communications we believe may be of
-      interest to you. For more information about how targeted advertising
-      works, you can visit the Network Advertising Initiative’s (“NAI”)
-      educational page at
-      http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work.
 
+      Your privacy is critical to us. Likewise, we have built up this Policy with the end goal you should see how we gather, utilize, impart and reveal and make utilization of individual data. The following blueprints our privacy policy.
 
-      You can opt out of targeted advertising by using the links below:
 
+      * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
 
-      \- Facebook: https://www.facebook.com/settings/?tab=ads
+      * We will gather and utilization of individual data singularly with the target of satisfying those reasons indicated by us and for other good purposes, unless we get the assent of the individual concerned or as required by law.
 
+      * We will just hold individual data the length of essential for the satisfaction of those reasons.
 
-      \- Google: https://www.google.com/settings/ads/anonymous
+      * We will gather individual data by legal and reasonable means and, where fitting, with the information or assent of the individual concerned.
 
+      * Personal information ought to be important to the reasons for which it is to be utilized, and, to the degree essential for those reasons, ought to be exact, finished, and updated.
 
-      \- Bing:
-      https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
+      * We will protect individual data by security shields against misfortune or burglary, and also unapproved access, divulgence, duplicating, use or alteration.
 
+      * We will promptly provide customers with access to our policies and procedures for the administration of individual data.
 
-      Additionally, you can opt out of some of these services by visiting the
-      Digital Advertising Alliance’s opt-out portal at:
-      http://optout.aboutads.info/.
 
-
-      Do not track
-
-
-      Please note that we do not alter our Site’s data collection and use
-      practices when we see a Do Not Track signal from your browser.
-
-
-      Your rights
-
-
-      If you are a European resident, you have the right to access personal
-      information we hold about you and to ask that your personal information be
-      corrected, updated, or deleted. If you would like to exercise this right,
-      please contact us through the contact information below.
-
-
-      Additionally, if you are a European resident we note that we are
-      processing your information in order to fulfill contracts we might have
-      with you (for example if you make an order through the Site), or otherwise
-      to pursue our legitimate business interests listed above. Additionally,
-      please note that your information will be transferred outside of Europe,
-      including to Canada and the United States.
-
-
-      Data retention
-
-
-      When you place an order through the Site, we will maintain your Order
-      Information for our records unless and until you ask us to delete this
-      information.
-
-
-      Changes
-
-
-      We may update this privacy policy from time to time in order to reflect,
-      for example, changes to our practices or for other operational, legal or
-      regulatory reasons.
-
-
-      Contact us
-
-
-      For more information about our privacy practices, if you have questions,
-      or if you would like to make a complaint, please contact us on
-      [Facebook](https://facebook.com/icvntechstudio).
+      We are focused on leading our business as per these standards with a specific end goal to guarantee that the privacy of individual data is secure and maintained.
     title: Privacy Policy
     type: section_content
 menus:
@@ -176,4 +94,3 @@ menus:
     weight: 8
 template: landing
 ---
-

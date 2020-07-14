@@ -46,6 +46,14 @@ sections:
           Service Offered: Static Web Development
         image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
         title: Leagogo Law Office
+      - title: ICVN Hotel
+        content: A practice real estate application built with Django.
+        image: /images/screen-shot-2020-07-14-at-12.28.56-pm.png
+        actions:
+          - label: Visit
+            url: https://icvn-hotel.herokuapp.com
+          - label: Book a meeting
+            url: https://drift.me/highcenburg/meeting
       - actions:
           - label: Book a Meeting
             url: https://drift.me/highcenburg/meeting

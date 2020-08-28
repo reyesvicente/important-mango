@@ -11,6 +11,6 @@ menus:
     weight: 2
 template: page
 ---
-Welcome to ICVN Tech Studio, your number one source for Custom Web Development. We're dedicated to providing you the very best of Custom Web Development, with an emphasis on Shopify Development, Django Web Development & Webflow Web Development.
+We're a small tech studio who helps small & medium business' develop their website using blazing fast technology with added security.
 
-We hope you enjoy our services as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+If you have any questions or comments, please don't hesitate to contact us by[ booking a meeting to discuss your needs.](https://drift.me/icvntechstudio/meeting)

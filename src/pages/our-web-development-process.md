@@ -42,7 +42,7 @@ sections:
     title: Our Web Development Process
     type: section_features
   - actions:
-      - label: Talk To Us
+      - label: Request a quote
         url: https://forms.gle/eAyL1dzPRuGCV7eN8
     section_id: cta
     title: Are you ready to develop your website?

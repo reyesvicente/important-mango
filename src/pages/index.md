@@ -5,7 +5,7 @@ sections:
       - label: Learn More
         url: /services
       - label: Talk To Us
-        url: https://forms.gle/eAyL1dzPRuGCV7eN8
+        url: https://drift.me/icvntechstudio/meeting
     content: We're a small tech studio who helps small & medium business' develop
       their website using blazing fast & secure technology.
     image: /images/unrdaw-web-dev.png
@@ -15,29 +15,29 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Book a Meeting
-            url: https://drift.me/highcenburg/meeting
+            url: https://drift.me/icvntechstudio/meeting
         content: As a Shopify Partner, we aim to make your brand visible worldwide. Our
           goal is to remove all the pains you have as a small & medium business
           owner.
         image: /images/shopify-partner.png
         title: Shopify Development
       - actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Book a Meeting
-            url: https://drift.me/highcenburg/meeting
+            url: https://drift.me/icvntechstudio/meeting
         content: Our experienced web development team is ready to **help you plan,
           build, market and grow your web project**.
         image: /images/undraw-test.png
         title: Custom Web Development
       - actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Go to Webflow website
-            url: https://bit.ly/3bag5fO
+            url: https://drift.me/icvntechstudio/meeting
         content: Webflow, Inc. is an American company, based in San Francisco, that
           provides software as a service for website building and hosting. Their
           online visual editor platform allows users to design, build, and
@@ -54,7 +54,7 @@ sections:
       - label: Talk To Us
         url: https://forms.gle/eAyL1dzPRuGCV7eN8
     section_id: call-to-action
-    subtitle: We usually work in +8 GMT but we can take in meetings in Eastern Time
+    subtitle: We usually work in +8 GMT but we can take in meetings in any timezone
     title: Need a website made?
     type: section_cta
   - bg: gray
@@ -71,12 +71,12 @@ sections:
           Service Offered: Webflow Development
         image: /images/screenshot_2020-06-01-home-beginners-mind-montessori-house.png
         actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visit site
             url: https://www.beginnersmindmontessori.com/
       - actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visite site
             url: https://nvrmndclothing.co
@@ -91,7 +91,7 @@ sections:
         image: /images/nvm.png
         title: NVRMND CLOTHING CO
       - actions:
-          - label: Talk To Us
+          - label: Request a quote
             url: https://forms.gle/eAyL1dzPRuGCV7eN8
           - label: Visit site
             url: https://herbguard.com
@@ -153,8 +153,8 @@ sections:
         image: /images/undraw-test.png
         title: Testing
       - actions:
-          - label: Get a Quote
-            url: /contact
+          - label: Request a quote
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
         content: Once everything sits perfectly, it's time to launch the application to
           the server. This would take more or less 1 week, depending on the
           availability of both parties.Once everything sits perfectly, it's time
@@ -170,7 +170,7 @@ sections:
     title: Our Process
     type: section_features
   - actions:
-      - label: Talk To Us
+      - label: Request a quote
         url: https://forms.gle/eAyL1dzPRuGCV7eN8
       - label: Inquire Now
         url: /contact
@@ -198,7 +198,7 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Talk To Us
+      - label: Request a quote
         url: https://forms.gle/eAyL1dzPRuGCV7eN8
     section_id: cta-4
     title: Let's start developing your website?

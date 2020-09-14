@@ -22,7 +22,7 @@
     "js-yaml": "^3.14.0",
     "lodash": "^4.17.19",
     "marked": "^1.1.1",
-    "moment": "^2.27.0",
+    "moment": "^2.28.0",
     "moment-strftime": "^0.5.0",
     "node-sass": "^4.14.1",
     "node-sass-utils": "^1.1.3",

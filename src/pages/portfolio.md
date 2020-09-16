@@ -14,12 +14,12 @@ sections:
           Service Offered: Webflow Development
         image: /images/screenshot_2020-06-01-home-beginners-mind-montessori-house.png
         actions:
-          - label: Book a Meeting
+          - label: Book a meeting
             url: https://drift.me/icvntechstudio/meeting
           - label: Visit
             url: https://www.beginnersmindmontessori.com/
       - actions:
-          - label: Book a Meeting
+          - label: Book a meeting
             url: https://drift.me/icvntechstudio/meeting
           - label: Visit
             url: https://nvrmndclothing.co
@@ -46,6 +46,16 @@ sections:
           Service Offered: Static Web Development
         image: /images/Screenshot_2020-02-11 LEAGOGO - Law Firm.jpg
         title: Leagogo Law Office
+      - title: Webflow practice project
+        actions:
+          - label: Book a meeting
+            url: https://drift.me/icvntechstudio/meeting
+          - label: Visit
+            url: https://icvntechstudio-practice.webflow.io/
+        content: "[Webflow, Inc.](https://bit.ly/3bag5fO) is an American company, based
+          in San Francisco, that provides software as a service for website
+          building and hosting. Their online visual editor platform allows users
+          to design, build, and launch websites."
       - title: ICVN Hotel
         content: A practice real estate application built with Django.
         image: /images/screen-shot-2020-07-14-at-12.28.56-pm.png
@@ -55,7 +65,7 @@ sections:
           - label: Visit
             url: https://icvn-hotel.herokuapp.com
       - actions:
-          - label: Book a Meeting
+          - label: Book a meeting
             url: https://drift.me/icvntechstudio/meeting
           - label: Visit
             url: https://flowerheadevents.com.au/
@@ -69,7 +79,7 @@ sections:
         image: /images/flower-min.png
         title: Flower Head Events
       - actions:
-          - label: Book a Meeting
+          - label: Book a meeting
             url: https://drift.me/icvntechstudio/meeting
           - label: Visit
             url: https://herbguard.com

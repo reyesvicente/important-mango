@@ -6,8 +6,8 @@ sections:
         url: /services
       - label: Talk To Us
         url: https://drift.me/icvntechstudio/meeting
-    content: We're a small tech studio who helps small & medium business' develop
-      their website using blazing fast & secure technology.
+    content: We help business' get more sales by developing a fast, secure,
+      scallable & converting website
     image: /images/unrdaw-web-dev.png
     section_id: hero
     title: ICVN Tech Studio

@@ -59,6 +59,23 @@ sections:
     type: section_cta
   - bg: gray
     featureslist:
+      - actions:
+          - label: Request a quote
+            url: https://forms.gle/eAyL1dzPRuGCV7eN8
+          - label: Visit site
+            url: https://herbguard.com
+        content: >-
+          Sourced data from [Johns Hopkins
+          University](https://github.com/CSSEGISandData/COVID-19), the [New York
+          Times](https://github.com/nytimes/covid-19-data),
+          [Worldometers](https://www.worldometers.info/coronavirus/), and [Apple
+          reports](https://github.com/ActiveConclusion/COVID19_mobility) to give
+          you a comprehensive view of the data.
+
+
+          Service Offered: Django, Docker, Digital Ocean, API Development, US Web Design System
+        image: /images/unofficial-covid-19-philippines-tracker.png
+        title: Unofficial COVID-19 Tracker Philippines
       - title: Beginners Mind Montessori House
         content: >-
           As required by the Department of Education, the client needed a
@@ -90,23 +107,6 @@ sections:
           Service Offered: Shopify Development
         image: /images/nvm.png
         title: NVRMND CLOTHING CO
-      - actions:
-          - label: Request a quote
-            url: https://forms.gle/eAyL1dzPRuGCV7eN8
-          - label: Visit site
-            url: https://herbguard.com
-        content: >-
-          Sourced data from [Johns Hopkins
-          University](https://github.com/CSSEGISandData/COVID-19), the [New York
-          Times](https://github.com/nytimes/covid-19-data),
-          [Worldometers](https://www.worldometers.info/coronavirus/), and [Apple
-          reports](https://github.com/ActiveConclusion/COVID19_mobility) to give
-          you a comprehensive view of the data.
-
-
-          Service Offered: Django, Docker, Digital Ocean, API Development, US Web Design System
-        image: /images/unofficial-covid-19-philippines-tracker.png
-        title: Unofficial COVID-19 Tracker Philippines
     section_id: portfolio
     subtitle: These are some of the web development projects we've worked on in the past
     title: Our Recent Works

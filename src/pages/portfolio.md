@@ -4,6 +4,23 @@ sections:
   - bg: gray
     content: All our works since our early days in web development
     featureslist:
+      - title: Unofficial COVID-19 Tracker Philippines
+        content: >-
+          Sourced data from [Johns Hopkins
+          University](https://github.com/CSSEGISandData/COVID-19), the [New York
+          Times](https://github.com/nytimes/covid-19-data),
+          [Worldometers](https://www.worldometers.info/coronavirus/), and [Apple
+          reports](https://github.com/ActiveConclusion/COVID19_mobility) to give
+          you a comprehensive view of the data.
+
+
+          Service Offered: Django, Docker, Digital Ocean, API Integration, US Web Design System
+        image: /images/unofficial-covid-19-philippines-tracker.png
+        actions:
+          - label: Book a Meeting
+            url: https://drift.me/icvntechstudio/meeting
+          - label: Visit
+            url: https://covid19ph-unofficial.icvn.tech/
       - title: Beginners Mind Montessori House
         content: >-
           As required by the Department of Education, the client needed a
@@ -133,23 +150,6 @@ sections:
           Service Offered: Static Website Development
         image: /images/sh.png
         title: Soul Heist Music
-      - title: Unofficial COVID-19 Tracker Philippines
-        content: >-
-          Sourced data from [Johns Hopkins
-          University](https://github.com/CSSEGISandData/COVID-19), the [New York
-          Times](https://github.com/nytimes/covid-19-data),
-          [Worldometers](https://www.worldometers.info/coronavirus/), and [Apple
-          reports](https://github.com/ActiveConclusion/COVID19_mobility) to give
-          you a comprehensive view of the data.
-
-
-          Service Offered: Django, Docker, Digital Ocean, API Integration, US Web Design System
-        image: /images/unofficial-covid-19-philippines-tracker.png
-        actions:
-          - label: Book a Meeting
-            url: https://drift.me/icvntechstudio/meeting
-          - label: Visit
-            url: https://covid19ph-unofficial.icvn.tech/
     section_id: portfolio
     title: Portfolio
     type: section_features

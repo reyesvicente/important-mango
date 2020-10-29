@@ -96,15 +96,17 @@ sections:
           - label: Visit site
             url: https://herbguard.com
         content: >-
-          The work we did here was to add the newsletter form using Klaviyo and
-          to add a Product Tabs via Meta Fields App. Another task was to add the
-          content given by the VA to the new products via Meta Field App.
+          Sourced data from [Johns Hopkins
+          University](https://github.com/CSSEGISandData/COVID-19), the [New York
+          Times](https://github.com/nytimes/covid-19-data),
+          [Worldometers](https://www.worldometers.info/coronavirus/), and [Apple
+          reports](https://github.com/ActiveConclusion/COVID19_mobility) to give
+          you a comprehensive view of the data.
 
 
-          Service Offered: Shopify Development
-        image: /images/Screenshot_2020-02-06 Smell Proof Bags, Jars Containers that Keep
-          Goods Fresh(1)-min.jpg
-        title: HerbGuard
+          Service Offered: Django, Docker, Digital Ocean, API Development, US Web Design System
+        image: /images/unofficial-covid-19-philippines-tracker.png
+        title: Unofficial COVID-19 Tracker Philippines
     section_id: portfolio
     subtitle: These are some of the web development projects we've worked on in the past
     title: Our Recent Works
